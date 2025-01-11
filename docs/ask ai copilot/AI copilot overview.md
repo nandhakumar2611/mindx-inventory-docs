@@ -128,14 +128,17 @@ The AI Copilot can also offer real-time updates on things like shipping status, 
 **Product Information**:
 
 User: "What are the ingredients in this face cream?"
+
 AI Copilot: "This face cream contains aloe vera, vitamin E, and shea butter. Would you like more details about how it works for different skin types?"
 
 **Order Status**:
 
 User: "Where is my order #12345?"
+
 AI Copilot: "Your order #12345 is on its way! It was shipped yesterday and should arrive by Thursday, January 15th. Would you like to track it in real-time?"
 
 **FAQ Responses**:
 
 User: "What is your return policy?"
+
 AI Copilot: "You can return products within 30 days for a full refund, as long as they are unopened and in their original packaging. Would you like to know how to start a return?"
