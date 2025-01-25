@@ -1,9 +1,8 @@
-### Overview 
+# Introduction-AI Copilot
 
 The "Ask AI Copilot" feature is designed to help users interact with your website's content in a more intuitive and intelligent way. By utilizing artificial intelligence, users can ask questions or request help, and the AI will respond with relevant answers, making the experience more engaging and efficient.
 
-
-### How It Works
+## How It Works
 
 **User Interaction**:
 The user can access the "Ask AI Copilot" feature via a chat interface, typically located at the bottom-right corner of the website.
@@ -25,51 +24,48 @@ The AI can access the website's product catalog, order management system, and kn
 **Continuous Learning**:
 The AI can continuously learn from user interactions, improving its understanding of user preferences and behavior over time.
 
-
-
-### Navigation 
+## Navigation
 
 The "Ask AI Copilot" feature on the MindMRP platform is designed to assist users in managing inventory, sales orders, and production processes through an AI-powered chat interface. To effectively utilize this feature, follow these steps:
 
 **Access the Chat Interface**:
 
-   - Navigate to the MindMRP chat page: [https://app.mindmrp.com/chat](https://app.mindmrp.com/chat).
-   - Ensure you are logged into your MindMRP account. If you don't have one, sign up for free.
+- Navigate to the MindMRP chat page: [https://app.mindmrp.com/chat](https://app.mindmrp.com/chat).
+- Ensure you are logged into your MindMRP account. If you don't have one, sign up for free.
 
 **Initiate a Conversation**:
 
-   - Click on the chat icon or the "Ask AI Copilot" button to open the chat window.
-   - Type your query or request in the chat input field. For example, you can ask about inventory levels, order statuses, or production schedules.
+- Click on the chat icon or the "Ask AI Copilot" button to open the chat window.
+- Type your query or request in the chat input field. For example, you can ask about inventory levels, order statuses, or production schedules.
 
 **Start a New Chat**:
 
-   - Users can begin a new conversation at any time, creating a fresh context for their queries.
+- Users can begin a new conversation at any time, creating a fresh context for their queries.
 
 **Interact with the AI Copilot**:
 
-   - The AI will process your input and provide relevant information or perform tasks as requested.
-   - You can ask follow-up questions or request additional details to refine the information provided.
+- The AI will process your input and provide relevant information or perform tasks as requested.
+- You can ask follow-up questions or request additional details to refine the information provided.
 
 **Utilize AI Capabilities**:
 
-   - The AI Copilot can assist with various tasks, including:
-     - **Inventory Management**: Inquire about current stock levels, reorder points, and product availability.
-     - **Sales Order Management**: Check the status of customer orders, processing times, and delivery schedules.
-     - **Production Planning**: Obtain information on production schedules, resource allocation, and manufacturing timelines.
+- The AI Copilot can assist with various tasks, including:
+  - **Inventory Management**: Inquire about current stock levels, reorder points, and product availability.
+  - **Sales Order Management**: Check the status of customer orders, processing times, and delivery schedules.
+  - **Production Planning**: Obtain information on production schedules, resource allocation, and manufacturing timelines.
 
 **Access Support and Resources**:
 
-   - If you encounter issues or need further assistance, the MindMRP support team is available to help.
-   - Visit the [MindMRP Support Page](https://mindplm.com/mindmrp/) for contact information and additional resources.
+- If you encounter issues or need further assistance, the MindMRP support team is available to help.
+- Visit the [MindMRP Support Page](https://mindplm.com/mindmrp/) for contact information and additional resources.
 
 **Easy Navigation Between Chats**
 
 Users can switch between ongoing and previous conversations seamlessly using the chat navigation menu.
 
-By leveraging the "Ask AI Copilot" feature, you can streamline your operations and enhance decision-making processes within the MindMRP platform. 
+By leveraging the "Ask AI Copilot" feature, you can streamline your operations and enhance decision-making processes within the MindMRP platform.
 
-
-### Benefits of the Ask AI Copilot
+## Benefits of the Ask AI Copilot
 
 **Efficiency**: Users save time by quickly receiving the information they need without navigating through the website or waiting for a customer service response.
 
@@ -81,8 +77,7 @@ By leveraging the "Ask AI Copilot" feature, you can streamline your operations a
 
 **Customer Satisfaction**: A faster, more intuitive customer service experience leads to higher customer satisfaction and retention rates.
 
-
-### How It Makes the Experience More Engaging and Efficient
+## How It Makes the Experience More Engaging and Efficient
 
 **Natural Language Understanding (NLU)**:
 
@@ -121,9 +116,7 @@ The AI Copilot ensures that users can get consistent and reliable answers regard
 
 The AI Copilot can also offer real-time updates on things like shipping status, product availability, and order tracking. This means users don’t need to manually check the website for updates—they can simply ask the AI for the latest information, making it easier for them to stay informed.
 
-
-
-### Example Scenarios of User Interaction
+## Example Scenarios of User Interaction
 
 **Product Information**:
 

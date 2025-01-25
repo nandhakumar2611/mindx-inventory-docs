@@ -2,7 +2,7 @@
 
 The Settings section in MindX Inventory helps configure and manage core components of your inventory system. It includes preferences for users, roles, taxes, and prefixes to match your business needs, ensuring better efficiency and control.
 
-### **Warehouse**
+### [**Warehouse**](warehouse.md)
 
 Configure warehouse settings to optimize inventory management.
 
@@ -16,7 +16,7 @@ Configure warehouse settings to optimize inventory management.
 
 - [Delete a Warehouse](warehouse.md#delete-a-warehouse)
 
-### **Taxes**
+### [**Taxes**](taxes.md)
 
 Enter Taxes in MindX Inventory applicable for your business.
 
@@ -24,13 +24,13 @@ Enter Taxes in MindX Inventory applicable for your business.
 
 - [Edit Taxes](taxes.md#editing-taxes)
 
-### **Prefixes**
+### [**Prefixes**](prefix.md)
 
 Set up custom prefixes to organize and identify records effectively.
 
 - [Edit Prefixes](prefix.md#edit-prefixes)
 
-### **Users**
+### [**Users**](user.md)
 
 Manage team members by assigning roles and responsibilities.
 
@@ -42,7 +42,7 @@ Manage team members by assigning roles and responsibilities.
 
 - [Deleting a User](user.md#deleting-a-user)
 
-### **Roles**
+### [**Roles**](roles.md)
 
 Define and assign roles with appropriate permissions for better control.
 
@@ -50,7 +50,7 @@ Define and assign roles with appropriate permissions for better control.
 
 - [Custom Roles](roles.md#custom-roles)
 
-### **Pricing**
+### [**Pricing**](pricing.md)
 
 Pricing plans for your inventory management services include:
 

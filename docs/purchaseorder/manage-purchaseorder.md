@@ -8,17 +8,22 @@ Cancelled If the vendor rejects your purchase order, the order can be cancelled 
 Partially Billed When the purchase order is billed only for some items, then the status will be Partially Billed.
 Billed Once the purchase order is converted to a bill, the status will be Billed.
 
-Filter Purchase Orders
-Efficiently locate the purchase orders you need by sorting them based on specific criteria:
+## **Filter Purchase Orders**
 
-Navigate to Purchases > Purchase Orders.
-Click on the Filter option located at the top of the page.
-Select your preferred filter criteria to display the results.
-By filtering your purchase orders, you can swiftly find relevant information, enhancing your overall procurement management.
+To quickly locate the purchase orders you need, you can sort them based on specific criteria:
 
-Refresh Purchase Order List
-Keeping your purchase order list up-to-date is essential for effective management. Here’s how to refresh the list:
+- Navigate to **Purchases** > **Purchase Orders**.
+- Click on the **Filter** option located at the top of the page.
+- Select your preferred filter criteria to display the results.
 
-- Go to Purchases > Purchase Orders.
-- Click the Refresh option in the top right corner of the page.
-  Refreshing the list ensures that you are viewing the most current data, helping you stay on top of your purchase orders.
+Filtering your purchase orders allows you to find relevant information swiftly, improving your overall procurement management.
+
+## **Refresh Purchase Order List**
+
+To ensure your purchase order list is current and accurate, follow these steps to refresh it:
+
+- Go to **Purchases** > **Purchase Orders**.
+- Click the **three-dot menu** in the top right corner of the page.
+- Select **Refresh** from the dropdown.
+
+Refreshing the list ensures that you have the most up-to-date information, helping you effectively manage your purchase orders.

@@ -1,10 +1,11 @@
-Convert Sales Order to Purchase Order
-Imagine you’ve created a sales order for your customer, but upon checking your inventory, you realize that you don’t have enough stock of some or all the items needed for fulfillment. In this case, you can order the required items from your vendor by creating a purchase order directly from the sales order. Mindx Inventory allows you to do this with ease. Here’s how:
+# **Convert Sales Order to Purchase Order**
 
-Go to Sales > Sales Orders.
-Select the sales order that you want to convert into a purchase order.
-Click on More > Convert to Purchase Order.
-Save the purchase order.
-Note: You also have the option to add or remove items from your purchase order as needed.
+Imagine you’ve created a sales order for your customer, but upon checking your inventory, you realize that you don’t have enough stock of some or all the items needed for fulfillment. In this case, you can order the required items from your vendor by creating a purchase order directly from the sales order.
+Mindx Inventory allows you to do this with ease. Here’s how:
+
+- Go to **Sales** > **Sales Orders**.
+- Select the sales order that you want to convert into a purchase order.
+- on the detail page , Click on** Convert to Purchase Order**.
+- Save the **purchase order**.
 
 This feature helps streamline your inventory management process, ensuring that you can fulfill customer orders without delay!
