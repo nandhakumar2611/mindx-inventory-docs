@@ -1,138 +1,99 @@
-Home
-When you log in to Zoho Books, you will first see the Home page, which clearly shows the financial health of your organisation.
+# **Overview**
 
-IN THIS PAGE…
+When you log in to MindX Inventory, the Home page provides an intuitive and detailed overview of your inventory and sales performance. This central hub offers a comprehensive picture of your business health, empowering you to make data-driven decisions and stay ahead in managing your operations effectively.
 
-Dashboard Tab
-Total Receivables
-Total Payables
-Cash Flow
-Income and Expense
-Top Expenses
-Projects
-Bank and Credit Cards
-Account Watchlist
-Getting Started Tab
-Announcements Tab
-Recent Updates Tab
-Dashboard Tab
-The Dashboard tab in Zoho Books provides a clear view of your finances. You can easily track your income, expenses, bank balances, project time logs, and outstanding amounts. It also includes visual charts that allow you to monitor your business’s financial performance at a glance.
+## **Dashboard**
 
-Total Receivables
-In Zoho Books, the Total Receivables component displays the amount your customers owe you. It is divided into two sections:
+The Dashboard tab in MindX Inventory delivers a quick yet comprehensive view of your inventory and sales operations. Featuring key performance indicators and dynamic visual charts, it provides actionable insights into your sales, purchases, and inventory levels, helping you understand the pulse of your business at any given moment.
 
-Current: The amount yet to be received for invoices that haven’t crossed the payment due date.
-Overdue: The amount yet to be received for invoices that have crossed the payment due date.
-dashboard-tab - total-receivables
-You can click the Current or Overdue amount under Total Receivables to view the AR Aging Details By Invoice Due Date report.
+### **Sales Overview**
 
-To create new transactions within this tab:
+The Sales Overview widget showcases critical metrics such as total sales, revenue, profit, and cost. Alongside these, percentage changes over the previous period help you monitor your business growth effectively and identify areas for improvement.
 
-Click + New in the top right corner of the component.
-In the dropdown, you can create the following transactions:
-Invoice
-Recurring Invoice
-Customer Payment
-dashboard-tab - total-receivables-new
-Additionally, by clicking the drop-down next to the Overdue amount, you can choose the desired time range.
+![sale overview]()
 
-dashboard-tab - total-receivables-overdue
-Total Payables
-In Zoho Books, the Total Payables component displays the amount you owe your vendors. This component is divided into two sections:
+**Sales**: Displays the total number of sales transactions completed within the period.
 
-Current: The amount you have yet to pay for purchase transactions that haven’t crossed the payment due date.
-Overdue: The amount you have yet to pay for purchase transactions that have crossed the payment due date.
-dashboard-tab - total-payables
-You can click the Current or Overdue amount under Total Payables to view the AP Aging Details By Bill Due Date report.
+**Revenue**: Reflects the total revenue generated from your sales activities.
 
-To create new transactions within this component:
+**Profit**: Highlights the net profit achieved after deducting expenses and costs.
 
-Click + New in the top right corner of the component.
-In the dropdown, you can create the following transactions:
-Bill
-Vendor Payment
-Recurring Bill
-dashboard-tab - total-payables-new
-Additionally, by clicking the drop-down next to the Overdue amount, you can choose the desired time range.
+**Cost**: Indicates the total expenditure related to the sales.
 
-total-payables-overdue
-Cash Flow
-In Zoho Books, the Cash Flow component shows the cash flowing in and out of your organisation. The Cash Flow Graph is generated based on your organisation’s cash flow report. This graph is shown based on the following three sections:
+**Weekly Trends**: Includes detailed graphs to monitor weekly trends and track fluctuations in performance metrics over time.
 
-Cash as on “Date”: This displays the cash you had at the beginning and the end of your fiscal year.
-Incoming: The sum of debit entries from banks, cards, cash, and payment clearing accounts.
-Outgoing: The sum of credit entries from banks, cards, cash, and payment clearing accounts.
-Insight:The graph is made using the direct method, where you can calculate the difference between the total cash spent and the total cash received by your organisation. The cash flow statement report uses the indirect method, which includes non-cash expenses like depreciation and inventory adjustments. For instance, you can calculate the difference between the net income and a purchase you haven’t paid for.
+### **Purchase Overview**
 
-dashboard-tab-cash-flow
-You can customise the cash flow graph based on different time periods:
+The Purchase Overview widget offers detailed insights into your purchasing activities. It includes metrics for total purchases, cancellations, costs, and returns, helping you analyze and streamline your procurement processes.
 
-Click on This Fiscal Year in the top right corner of the component.
-Choose the desired timeline from the dropdown.
-dashboard-tab-cash-flow-tfy
-Income and Expense
-In Zoho Books, the Income and Expense component shows the total income and expenses of your organisation. It is divided into two sections:
+![Purchase Overview](file:///D:/mindx/documantation-images/dashboard/purchase-overview.svg)
 
-Total Income: Shows the amount received from sales transactions and bank deposits.
-Total Expenses: Shows the amount spent on purchase transactions and bank withdrawals.
-Income and Expense - Main
-You can view the Profit and Loss report by clicking on the bar graph. To see income and expenses on a cash or accrual basis, click Cash or Accrual in the top right corner of the graph.
+**Purchases**: Displays the total number of items or orders purchased.
 
-Income and Expense - Basis
-To customise the Income and Expenses graph based on different time periods:
+**Cancellations**: Provides data on the number of canceled purchase transactions.
 
-Click This Fiscal Year in the top right corner of the component.
-Choose the desired timeline from the dropdown.
-Income and Expense - Fiscal Year
-Top Expenses
-In the Top Expenses component, the pie chart shows all the top expenses recorded in Zoho Books. Click on any section of the pie chart to view the corresponding transactions in reports.
+**Cost**: Reflects the total cost incurred from all purchase activities.
 
-Top Expenses - Main
-To customise your top expenses based on different time periods:
+**Returns**: Highlights the quantity or value of items returned, offering insights into quality and supplier performance.
 
-Click This Fiscal Year in the top right corner of the component.
-Choose the desired timeline from the dropdown.
-Top Expenses - Fiscal Year
-Projects
-In Zoho Books, the Projects component displays the project names, client names, unbilled hours, and unbilled expenses, making it easy to track everything in one place.
+### **Inventory Summary**
 
-Projects - Main
-You can view the Project Details page in Timesheets by selecting a project.
+This component gives you a high-level overview of your stock levels, ensuring that you stay informed about inventory availability and incoming shipments:
 
-Additionally, in this component, you can view the Unbilled Hours and Unbilled Expenses of the projects in Zoho Books by clicking the Unbilled Expenses or Unbilled Hours tab at the top of the component.
+![Inventory Summary]()
 
-Note:Click Show All Projects at the bottom of the tab to view all the projects in Zoho Books.
+**Quantity in Hand**: Indicates the total inventory currently available in your warehouse or store.
 
-Projects - UH & UE
-Bank and Credit Cards
-In Zoho Books, the Bank and Credit Cards component shows all your bank accounts and credit cards added in Zoho Books. Select any bank account to view its transactions.
+**To Be Received**: Shows the quantity of stock that is on order but not yet delivered, helping you plan for future needs.
 
-Bank and Credit Cards
-Account Watchlist
-In Zoho Books, the Account Watchlist component lets you monitor the balances of selected accounts in real-time.
+### **Product Summary**
 
-Account Watchlist - Main
-To add an account to the account watchlist:
+The Product Summary widget provides an at-a-glance overview of your suppliers and product categories, enabling better management of your product offerings and supplier relationships:
 
-Go to Accountant in the left sidebar, and select Chart of Accounts.
-In this page, hover over and select an existing account and click Edit or click + New Account in the top right corner to create a new one.
-Enter the account details and check Add to the watchlist on my dashboard.
-Click Save.
-Account Watchlist - Mark
-Now, you can view the account details in this component of the dashboard.
+![Product Summary]()
 
-View account balances on a different basis by selecting your preferred option from the Accrual or Cash drop-down menu in the top right corner.
+**Suppliers**: Displays the total number of suppliers associated with your business.
 
-Account Watchlist - Basis
-Getting Started Tab
-The Getting Started tab in Zoho Books helps you set up your account. You can configure your company profile, add bank accounts, create your first invoice, and set up tax settings.
+**Categories**: Reflects the diversity of your inventory by showing the total number of product categories.
 
-Getting Started - Tab
-Announcements Tab
-The Announcements tab in Zoho Books keeps you updated with the latest news. You can find information on new features, events, webinars, and important updates about Zoho Books.
+### **Order Summary**
 
-Announcements - Tab
-Recent Updates Tab
-The Recent Updates tab keeps you updated about the latest changes and enhancements to Zoho Books. You can see details of newly added features, improvements, and bug fixes.
+The Order Summary chart visualizes trends in your order management process. It helps you track the status and volume of orders over time, identifying seasonal trends or periods of high demand:
 
-Recent Updates - Tab
+![Order Summary]()
+
+**Ordered**: Shows the total number of orders placed by your business or customers.
+
+**Delivered**: Displays the total number of orders successfully fulfilled and delivered.
+
+### **Top Selling Stock**
+
+This section highlights your best-performing products, giving you insights into customer preferences and demand patterns. The displayed information includes:
+
+![Top Selling Stock]()
+
+**Name**: The product name for easy identification.
+
+**Sold Quantity**: The total number of units sold within the period.
+
+**Remaining Quantity**: The current stock available for the product.
+
+**Price**: The unit price of the product, ensuring transparency in pricing.
+
+Click See All to access the complete list of top-performing products, helping you strategize for reorders and promotions.
+
+### **Low Quantity Stock**
+
+The Low Quantity Stock section provides a snapshot of items with critically low stock levels, enabling proactive restocking. Each product entry includes:
+
+![Low Quantity Stock]()
+
+**Image**: A visual representation of the product for quick recognition.
+
+**Name**: The product name for easy identification.
+
+**Remaining Quantity**: Displays the current stock levels to highlight urgency.
+
+**Status**: Includes an alert status to indicate low inventory and prioritize replenishment.
+
+Click See All to view the entire list of low-stock items, ensuring you maintain optimal stock levels and avoid disruptions in sales.

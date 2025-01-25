@@ -1,77 +1,57 @@
-Settings
-You may have provided the basic information of your organization in the Quick Setup page(See Getting Started section). You can do a complete set up of your organization from the Settings tab.
+# **Settings Overview**
 
-Organization Profile
-Set up information related to your Organization in Zoho Books.
+The Settings section in MindX Inventory helps configure and manage core components of your inventory system. It includes preferences for users, roles, taxes, and prefixes to match your business needs, ensuring better efficiency and control.
 
-Organization Profile
-Adding New Organization
-Opening Balances
-Enter your Opening Balances in Zoho Books.
+### **Warehouse**
 
-Entering Opening Balances
-Users
-Add multiple Users and collaborate with them in Zoho Books.
+Configure warehouse settings to optimize inventory management.
 
-Adding Users
-Deleting Users
-Changing User’s Status
-Changing User’s Role
-Listing Users
-Online Payments
-Setup Online Payment gateways on Zoho Books.
+- [Add New Warehouse](warehouse.md#add-new-warehouse)
 
-Setting up PayPal
-Setting up Razorpay
-Preferences
-Configure your Zoho Books Settings through Preferences section in Zoho Books.
+- [Change Warehouse Status](warehouse.md#change-warehouse-status)
 
-General
-Contacts
-Items
-Price Lists
-Inventory
-Sales
+- [Deactivate & Reactivate a Warehouse](warehouse.md#deactivate--reactivate-a-warehouse)
 
-Quotes
-Sales Orders
-Invoices
-Recurring Invoices
-Credit Notes
-Delivery Note Settings
-Packing Slip Settings
-Purchases
+- [Edit Warehouse Details](warehouse.md#edit-warehouse-details)
 
-Purchase Orders
-Currencies
-Manage multiple currencies in Zoho Books to transact with global clients.
+- [Delete a Warehouse](warehouse.md#delete-a-warehouse)
 
-Adding New Currency
-Edit Currency and Adding Exchange Rate
-View Exchange Rates
-Importing Exchange Rate
-Exporting Exchange Rate
-Taxes
-Enter Taxes in Zoho Books which are applicable for your business.
+### **Taxes**
 
-Adding New Taxes
-Edit Tax
-Deleting Tax
-Adding Tax Group
-Templates
-Customise the templates for various transactions in Zoho Books to suit your business needs and reflect your brand better.
+Enter Taxes in MindX Inventory applicable for your business.
 
-Templates
-Automation
-Create a workflow rule to automate repetitive tasks in Zoho Books.
+- [Add New Taxes](taxes.md#adding-new-taxes)
 
-Workflow Scenarios
-Setting Up a New Workflow Rule
-Email Alerts
-Field Updates
-Webhooks
-Webhook Examples
-ZSC
-Use the ZSC Key to connect your Zoho Books account with Zoho CRM.
+- [Edit Taxes](taxes.md#editing-taxes)
 
-Zoho Service Communication
+### **Prefixes**
+
+Set up custom prefixes to organize and identify records effectively.
+
+- [Edit Prefixes](prefix.md#edit-prefixes)
+
+### **Users**
+
+Manage team members by assigning roles and responsibilities.
+
+- [Adding a New User](user.md#adding-a-new-user)
+
+- [Activating a Newly Added User](user.md#activating-a-newly-added-user)
+
+- [edit an existing user's details](user.md#to-edit-an-existing-users-details)
+
+- [Deleting a User](user.md#deleting-a-user)
+
+### **Roles**
+
+Define and assign roles with appropriate permissions for better control.
+
+- [what is a Roles](roles.md#what-is-a-role)
+
+- [Custom Roles](roles.md#custom-roles)
+
+### **Pricing**
+
+Pricing plans for your inventory management services include:
+
+MindX Inventory’s Settings section offers a simple, centralized way to streamline operations, enhance teamwork, and maintain control over inventory processes. These settings adapt to your business, supporting growth and efficiency.

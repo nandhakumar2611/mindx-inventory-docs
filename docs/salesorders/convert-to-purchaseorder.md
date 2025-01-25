@@ -1,14 +1,10 @@
-Convert to Purchase Order
-Let’s say you have created a sales order for your customer. After doing so, you realize that you don’t have enough stock of some or all of the items to be sent to your customer.
-
-Well, in such a case, you might need to order the items mentioned in the sales from your vendor by creating a purchase order. In Zoho Books, you can directly convert the sales order into a purchase order.
-
-To convert a sales order into purchase order:
+Convert Sales Order to Purchase Order
+Imagine you’ve created a sales order for your customer, but upon checking your inventory, you realize that you don’t have enough stock of some or all the items needed for fulfillment. In this case, you can order the required items from your vendor by creating a purchase order directly from the sales order. Mindx Inventory allows you to do this with ease. Here’s how:
 
 Go to Sales > Sales Orders.
-Select the sales order that you want to convert to purchase order.
-Click More > Convert to Purchase Order.
+Select the sales order that you want to convert into a purchase order.
+Click on More > Convert to Purchase Order.
 Save the purchase order.
-Note: You can also add or remove the items from your purchase order.
+Note: You also have the option to add or remove items from your purchase order as needed.
 
-Convert to Purchase Order
+This feature helps streamline your inventory management process, ensuring that you can fulfill customer orders without delay!

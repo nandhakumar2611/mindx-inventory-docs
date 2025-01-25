@@ -1,70 +1,53 @@
-Other Actions for Items
-IN THIS PAGE…
-Edit Item
-Clone Item
-Mark as Inactive
-Delete Item
-Export Items
-Edit Item
-You can change details of an existing item in Zoho Books. Here’s how:
+# **Other Action for Item**
 
-Go to Items module and select Items.
-Select the item that you want to edit.
-Click the Edit icon on top of the page.
-Make the changes in the item details.
-Click Save.
-Note:
-Any changes you make in the item details will not affect any previous transactions.
+You can edit, clone, mark as inactive, delete, or export items in MindX Inventory for seamless inventory management.
 
-Edit Item
-Clone Item
-If you want to create an item which has similar details to an existing item, you can clone the particular item. Here’s how you can do it:
+## **Edit Item**
 
-Go to the module Items and select Items.
-Select the item you want to clone.
-Click More > Clone Item.
-Make necessary changes in the New Item page.
-Click Save to create the new item.
-Clone Item
-Mark as Inactive
-If you no longer want to use an item in Zoho Books, you can choose to mark it as inactive. This is a better alternative to deleting the item permanently.
+You can update the details of an existing item in MindX Inventory.
 
-To mark an item as inactive:
+Steps to Edit an Item:
 
-Go to Items module and select Items.
-Select the item you want to mark as inactive.
-Click More > Mark as Inactive. To make the item active again, click More > Mark as Active from the same page.
-Mark as Inactive
-Delete Item
-If you are no longer using an item in your organization, you might want to delete it. However, if you have recorded any sales or purchase transactions for that item, you would need to delete them first.
+- Go to the Items module and select **Items**.
 
-A better alternative would be to mark the item as inactive. When you do so, they will no longer appear in your transactions. If you want to start using that item again, you can mark it as active.
+- Select the item you want to edit.
 
-To view the sales transactions:
+- Click the Edit icon at the top of the page.
 
-Go to Reports > Sales by Item.
-To view the purchase transactions:
+Update the item details using the Edit Item form, as shown below:
 
-Go to Reports > Purchases by Item.
-You have to delete all these transactions of the item in order to delete the item.
+Click **Save** to apply the changes.
 
-After you’ve deleted all the transactions, you can delete the item. Here’s how:
+> Note: Any changes made to item details will not affect previous transactions.
 
-Go to the Items module and select Items.
-Select the item you wish to delete.
-Click More > Delete.
-Click Delete to confirm.
-Delete Item
+## **Delete Item**
 
-Export Items
-You can export items from Zoho Books on to your system in the CSV, XLS or XLSX format. Here’s how:
+If you no longer need an item in your organization, you can delete it directly from the Items module.
 
-Go to Items and select Items.
-Click the Hamburger icon in the top right corner of the page.
-Click Export Items.
-If you want to export only certain fields, you can select a template under Fields in Export File. If you don’t have an export template, you can create a new one by clicking + Add New.
-Select the export file format under the Export As field.
-To export any Personally Identifiable Information (PII), mark the box Include Sensitive Personally Identifiable Information (PII) while exporting.
-Enter a Password if you would like to secure your file.
-Click Export.
-Export Items
+Steps to Delete an Item:
+
+- Go to the Items module and select Items.
+- Locate the item you wish to delete from the list.
+- Select the checkbox next to the item to mark it for deletion.
+- Click the **Delete** button at the bottom of the page.
+
+Note: Ensure that the item is not actively being used in transactions. If the item is still associated with sales or purchase records, you may need to update or archive those records before proceeding with deletion.
+
+## **Export Items**
+
+You can export items from MindX Inventory in CSV, XLS, or XLSX format for offline records or analysis.
+
+Steps to Export Items:
+
+- Go to the Items module and select Items.
+
+- Click the Hamburger Menu (three lines) in the top-right corner.
+
+- Select Export Items.
+
+- Choose an export template under Fields in Export File:
+
+- Select an existing template.
+  Or click + Add New to create a custom template.
+- Select the export file format (CSV, XLS, or XLSX) under Export As.
+- Click Export.

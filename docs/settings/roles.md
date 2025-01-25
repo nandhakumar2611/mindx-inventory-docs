@@ -1,21 +1,22 @@
-What Is a role?
-A role refers to the level of accessibility that a user can have in an organization. In Zoho Books, we have standard roles like Admin, Staff, Staff for particular customers, and Timesheet staff.
+# **Roles**
 
-To configure users and roles:
+## **What Is a Role?**
 
-Go to Settings in the top right corner of the page.
-Select Roles under Roles.
-Roles
+A role determines the level of accessibility a user has in the organization. In MindX Inventory, standard roles like Admin and User are available.
 
-Custom Roles
-Apart from the standard roles (such as Admin, Staff, etc.) in Zoho Books, you can add additional roles with different levels of access. These roles are called Custom Roles.
+### **To Configure Roles:**
 
-To add a custom role:
+- Go to the Settings section in the left-side menu.
+- Select Roles under the Settings menu.
 
-Go to Settings in the top right corner of the page.
-Select Roles under Users & Roles.
-Click the New Role button in the top right corner of the page.
-Select the modules and the level of access you want to provide for the role.
-Click More Permissions for additional access options.
-Click Save.
-Custom Role
+## **Custom Roles**
+
+In addition to standard roles like Admin and User, MindX Inventory allows you to create custom roles with different levels of access to suit your requirements.
+
+### **To Add a Custom Role:**
+
+- Go to the **Settings** section in the left-side menu.
+- Select **Roles** under the Settings menu.
+- Click the **+ Add** Role button in the top right corner of the page.
+- Select the modules and specify the level of access for the new role.
+- Click **Save** to finalize the custom role.

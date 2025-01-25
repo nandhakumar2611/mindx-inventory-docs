@@ -1,75 +1,61 @@
-Who Is a User?
-A user is someone who has access to your Zoho Books organization. An organization in Zoho Books can have multiple users.
+# **Users**
 
-Add User
-When you create a Zoho Books account, you become the default admin of your organization. Once you are an admin, you can add multiple users with different roles to your organization. Here’s how you can do it:
+The Users page allows admins to manage users effectively. Each user is displayed in a table format with the following details:
 
-Go to Settings in the top right corner of the page.
-Select Users under Users & Roles.
-Click Invite User on the top right corner of the page.
-Enter the email address, name and the role of the user you’re going to invite to your organization.
-Click Save.
-After doing so, an email will be sent to the new user, from where they have to verify the link and set up a login password to access your Zoho Books organization.
+- **Name**: Full name of the user.
+- **Email**: Email address used for logging in.
+- **Phone**: Contact number associated with the user.
 
-Note: Only users with Admin access can add new users.
+### **Adding a New User**
 
-New User
-Edit User
-After you have added a new user, you can edit their data if required. Here’s how:
+To add a new user to your Mindx Inventory organization:
 
-Go to Settings in the top right corner of the page.
-Select Users under Users & Roles.
-Click Edit.
-Make the required changes and click Save.
-Note: Only users with Admin access can edit user information.
+- Click the **+ Invite User** button in the top-right corner.
 
-Edit User
+Fill in the required fields:
 
-Additional Fields for Users
-By default, the details about a user in Zoho Books includes their name and email address. If you want to add more details apart from this, you would have to create additional fields for users.
+- Name
+- Email
+- Phone
 
-To create an additional field for users:
+- Click **Save** to send an invitation email.
+  The user must verify the invitation and set up their login credentials.
 
-Go to Settings in the top right corner of the page.
-Select User Preferences under Users & Roles.
-Select the Field Customization tab on top of the page.
-Click the + New Custom Field button in the top right corner of the page.
-Enter the Label Name, select a Data Type for it, and fill in the other required details.
-If the field that you’re going to add is a Personally Identifiable Information (PII), mark it as such under Is this PII?
-Click Save.
-Custom Fields
-This new field will be saved under the Field Customization tab. You can perform different actions on it by hovering over the field and clicking the Edit or drop-down arrow next to it.
+> Note: Only Admin users can invite new users.
 
-Custom Field Actions
-The custom field(s) that you create under Field Customization will be shown while adding a new user to your organization.
+### **Activating a Newly Added User**
 
-Mark User as Inactive
-Sometimes, you might want to restrict a user from accessing your organization. In such a case, you can mark a user as inactive. You can make the user active again if you wish.
+When an admin adds a new user, an activation email is sent. The user must follow these steps:
 
-To mark a user as inactive:
+**Open the Activation Email:**
 
-Go to Settings in the top right corner of the page.
-Select Users under Users & Roles.
-Select the user you want to mark as inactive.
-Click Mark as Inactive.
-Mark as Inactive
-Mark User as Active
-In certain scenarios, there may be a need to change the status of an inactive user to active. In Zoho Books, you have the option to mark an inactive user as active.
+- Check the inbox for the invitation email from Mindx Inventory.
+- If not found, check the spam or junk folder.
 
-To mark a user active:
+**Click the Activation Link:**
 
-Go to Settings in the top right corner of the page.
-Select Users under Users & Roles.
-Select the inactive user you want to mark as active.
-Click Mark as Active.
-Delete User
-You can delete a user whom you no longer want to give access to your Zoho Books organization.
+- Open the email and click the activation link provided.
+- This will redirect the user to the Mindx Inventory login page.
 
-To delete a user:
+**Login to Mindx Inventory:**
 
-Go to Settings in the top right corner of the page.
-Select Users under Users & Roles.
-Select the user whom you want to delete.
-Click Delete.
-Delete User
-Do you want to restrict access for a user to your Zoho Books organization, but don’t want to delete them? Mark the user as inactive.
+- Use the registered email address to log in.
+
+Upon completing these steps, the user’s status will automatically change to Active.
+Editing User Details
+
+### **To edit an existing user's details:**
+
+- Locate the user in the table.
+- Click **Edit** in the corresponding row.
+- Modify the required fields (name, email, phone).
+- Click **Save** to update the information.
+
+> Note: Only Admin users have permission to edit user details.
+
+### **Deleting a User**
+
+If a user no longer requires access to your organization:
+
+- Select the user from the list.
+- Click on **Delete** in the settings menu or Edit option.
