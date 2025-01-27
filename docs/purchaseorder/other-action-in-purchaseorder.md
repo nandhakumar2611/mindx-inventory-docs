@@ -10,7 +10,7 @@ If you need to make changes to a purchase order—for example, to update quantit
 - Make the necessary changes and hit **Save** to update the purchase order.
   Keeping your purchase orders up-to-date ensures accurate inventory management and smooth supplier communication.
 
-## **Print a Purchase Order**
+## **Download/Print a Purchase Order**
 
 For suppliers who require a hard copy or if you need a printed version for your records, printing a purchase order is straightforward:
 

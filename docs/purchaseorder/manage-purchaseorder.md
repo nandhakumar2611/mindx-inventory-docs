@@ -1,6 +1,7 @@
 # Manage Purchase Orders
 
-Status Description
+## **Status Description**
+
 Draft Purchase orders when created, will be in the Draft status.
 Open Purchase orders once sent to the vendor, will be in the Open status.
 Closed Purchase order once accepted by a vendor, can be converted to a bill and the status will be Closed.

@@ -1,10 +1,10 @@
-# **Create and Manage Quotes**
+# **Introductio- Quotes**
 
 A quote is a formal document sent to a customer, outlining the items or services to be delivered, their quantities, pricing, and additional terms. In MindX Inventory, the Quotes feature allows you to create, send, and manage quotes seamlessly.
 
-Below is the New Quote creation interface for MindX Inventory:
+## **Key Elements of the New Quote Page**
 
-**Key Elements of the New Quote Page**
+Below is the New Quote creation interface for MindX Inventory:
 
 | **Section**    | **Field**      | **Description**                                                             |
 | -------------- | -------------- | --------------------------------------------------------------------------- |
@@ -38,3 +38,11 @@ Fill out the required fields:
 
 > Pro Tip
 > Configure warehouses, tax rates, and pricing rules in the Settings section beforehand to streamline the quote creation process.
+
+## **View Quotes**
+
+If you’ve already created quotes, you can easily view them. Here’s how:
+
+- Navigate to **Sales** > **Quotes**.
+- Select the quote you wish to view.
+  This enables you to track your proposals, manage customer expectations, and streamline the sales process effectively.

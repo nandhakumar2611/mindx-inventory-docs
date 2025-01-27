@@ -1,6 +1,6 @@
 # **SalesOrder Overview**
 
-The Sales Order section in MindX Inventory facilitates efficient order processing and management. It encompasses various functionalities to ensure seamless operations, from creating orders to tracking their status.
+The Sales Order section in MindX Inventory streamlines the order processing and management workflow, allowing users to create, track, and manage sales orders efficiently. This functionality ensures accurate order fulfillment and enhances overall customer satisfaction.
 
 ## [**Introduction - Sales Order**](introduction-sales-order.md)
 
@@ -12,22 +12,22 @@ The Sales Order section provides an overview of the process for creating, conver
 
 ## [**convert to invoice**](convert-to-invoice.md)
 
-The "Convert to Invoice" feature allows users to seamlessly transform a sales order into an invoice within MindX Inventory.
+The "Convert to Invoice" feature streamlines billing by transforming sales orders into invoices, automatically populating details like products, quantities, and pricing. This reduces manual entry and improves efficiency.
 
-This functionality streamlines the billing process, ensuring that all details from the sales order, such as products, quantities, and pricing, are automatically populated in the invoice. By reducing manual entry, this feature enhances accuracy and efficiency, allowing businesses to expedite their invoicing workflow and improve cash flow management.
+## [**convert to purchaseOrder**](convert-to-purchase-order.md)
 
-## [**convert to purchaseOrder**](convert-to-purchaseorder.md)
+The "Convert to Purchase Order" feature lets you create purchase orders directly from sales orders, carrying over item details, quantities, and pricing automatically. This streamlines procurement, reduces errors, and improves inventory management.
 
-The "Convert to Purchase Order" feature in MindX Inventory facilitates the transition from a sales order to a purchase order with ease.
+## [**Manage Sales Order**](manage-sales-order.md)
 
-This functionality allows users to create purchase orders directly from sales orders, ensuring that all relevant information, such as item details, quantities, and pricing, is carried over seamlessly.By automating this process, businesses can enhance procurement efficiency, reduce errors, and streamline their purchasing workflows, ultimately leading to better inventory management and supplier relations.
+- [Filter Sales Orders](manage-sales-order.md#filter-sales-orders)
+- [Refresh List for Sales Orders](manage-sales-order.md#refresh-list-for-sales-orders)
 
-## [**Other Action in sales Order**](other-action-in-salesorder.md)
+## [**Other Action in sales Order**](other-action-in-sales-order.md)
 
 This section outlines additional functionalities available for managing sales orders, including editing, sending, printing, filtering, and deleting orders to enhance operational efficiency.
 
-- [Edit a Sales Order](other-action-in-salesorder.md#edit-a-sales-order)
-- [Send a Sales Order to a Customer](other-action-in-salesorder.md#send-a-sales-order-to-a-customer)
-- [Print a Sales Order](other-action-in-salesorder.md#print-a-sales-order)
-- [Filter Sales Orders](other-action-in-salesorder.md#filter-sales-orders)
-- [Delete Sales Order](other-action-in-salesorder.md#delete-sales-order)
+- [Edit a Sales Order](other-action-in-sales-order.md#edit-a-sales-order)
+- [Send a Sales Order to a Customer](other-action-in-sales-order.md#send-a-sales-order-to-a-customer)
+- [Download/Print a Sales Order](other-action-in-sales-order.md#downloadprint-a-sales-order)
+- [Delete Sales Order](other-action-in-sales-order.md#delete-sales-order)

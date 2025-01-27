@@ -30,7 +30,7 @@ Need to send a quote to your customer? Mindx Inventory makes it easy to email qu
 
 > Note: The quote status will automatically update to "Sent" once the email is sent.
 
-## **Print a Quote**
+## **Download/Print a Quote**
 
 For customers who require a hard copy or if you need a printed version for your records, you can print a quote easily:
 
@@ -41,15 +41,6 @@ For customers who require a hard copy or if you need a printed version for your 
 - On the Details page, click **PDF/Print**.
 
 - Choose PDF to download or Print to print the document.
-
-## **Filter Quotes**
-
-You can sort quotes based on specific criteria to find the information you need more efficiently:
-
-- Navigate to **Sales** > **Quotes**.
-- Click the **Filter** option at the top of the page.
-- Choose the desired filter criteria to view the results.
-  Sorting your quotes helps you quickly access relevant information, improving your quote management process.
 
 ## **Delete a Quote**
 

@@ -1,113 +1,56 @@
-Other Actions for Bills
-IN THIS PAGE…
-Edit Bill
-Download as PDF
-Print Bill
-Attach Files to Bills
-Clone Bill
-Make Bill Recurring
-Void Bill
-Delete Bill
-Export Bills
-Edit Bill
-You can edit the details of any bill. Here’s how:
+# **Other Actions in Bills**
 
-Go to Purchases > Bills.
-Select the bill you want to edit.
-Click the Pencil icon on top of the page.
-Make the changes.
-Click Save.
-Edit Bill
-Download as PDF
-You can download any bill as a PDF. Here’s how:
+## **Edit a Bill**
 
-Go to Purchases > Bills.
-Select the bill you want to download.
-Click the PDF icon on top of the page.
-Download Bill
-Print Bill
-You can print the details of any bill. Here’s how:
+If you need to update the details of a bill, the process is simple:
 
-Go to Purchases > Bills.
-Select the bill you want to print.
-Click the Print icon on top of the page.
-Check the Preview and click Print.
-Print Bill
-Attach Files to Bill
-You can attach files to your bill. This can be done through:
+- Go to **Purchases** in the left sidebar and select **Bills**.
+- Locate and select the bill you want to edit.
+- On the detail page ,Click the Edit option at the top of the page.
+- Make the necessary changes to the bill details.
+- Click **Save** to update the bill.
+  Keeping your bills accurate ensures reliable financial records and smooth transactions with your vendors.
 
-Drag & Drop: Upload files from your system (a maximum of 5 files, each of 5 MB).
-Cloud: Upload from cloud resources like Zoho Docs, Google Drive, Dropbox, One Drive, etc.
-Documents: Upload from the Documents folder in Zoho Books.
-To attach files to your bill:
+## **Email the Bill**
 
-Go to Purchases > Bills.
-Select the required bill.
-Click the Attach icon on top of the page.
-Select the desired option and attach your file(s).
-Attach Files to Bill
-Clone Bill
-You can create a bill in Zoho Books with details similar to an existing bill by cloning the bill.
+Need to send a bill to your vendor? Mindx Inventory makes it easy to email bills directly.
 
-To clone a bill:
+- Go to **Purchases** on the left sidebar and select **Bills**.
 
-Go to Purchases > Bills.
-Click More > Clone.
-Review the new bill and save it.
-Clone Bill
-Make Bill Recurring
-You can make any bill that you’ve recorded in Zoho Books as recurring. Here’s how:
+- Select the **bill** you want to email.
 
-Go to Purchases > Bills.
-Click More > Make Recurring.
-Make Bill Recurring
-Review the new recurring bill and save it.
-Make Bill Recurring
-Void Bill
-If you void a bill, it will no longer be valid and will not reflect in any of your transactions or reports. You can, however, make it active at a later point of time. This is a better alternative to deleting the bill altogether.
+- On the Details page, click **Email**.
 
-To void a bill:
+- Review the email details, make adjustments if needed, and click Send.
 
-Go to Purchases > Bills.
-Click More > Void.
-Enter the reason to void.
-Click Void it.
-Void Bill
-If you applied credits or recorded payment for a bill, you would need to delete them before voiding the bill.
+## **Download a Bill as PDF**
 
-Make the Bill Active
-If you have voided a bill, you can make it active again. Here’s how:
+To maintain a digital copy of your bills, you can easily download them as PDFs:
 
-Go to Purchases > Bills.
-Select the bill to be made active.
-Click the Convert to Draft button on top of the page.
-Enter the reason for making the bill active again.
-Click Convert to Draft.
-Unvoid Bill
-Delete Bill
-You can delete any bill that you’ve recorded in Zoho Books. Here’s how:
+- Navigate to **Purchases** and select **Bills**.
+- Locate the bill you wish to download.
+- On the detail page ,Click on the **PDF/print**,Choose to download as PDF.
+- Choose your preferred download location and save the file.
 
-Go to Purchases > Bills.
-Select the bill to delete.
-Click More > Delete.
-Click Delete to confirm.
-Delete Bill
-If you have applied credits or recorded payment for a bill, you would need to delete them before deleting the bill.
+Having your bills saved as PDFs allows for easy sharing and secure storage.
 
-Export Bills
-You can export all the bills in Zoho Books to your system in the CSV, XLS or XLSX format. Here’s how:
+## **Print a Bill**
 
-Go to Purchases > Bills.
-Click the Hamburger icon in the top right corner of the page.
-Select Export Bills.
-Export Bills
-Fill in the following fields.
-Export Bills
-Fields Description
-Select Module By default, the Bills module will be selected.
-Date Range Export All Bills or select a Specific Period for which you want to export the bills.
-Fields in Export File If you want to export only certain fields, you can select a custom template. If you don’t have an export template, you can create a new one by clicking + Add New.
-Export As Select the format in which the file should be exported.
-Personally Identifyable Information (PII) If you have any PII that you are exporting, mark the box Include Sensitive Personally Identifiable Information (PII) while exporting. The PII fields include your vendor’s address, email address, phone number, bank account number and any sensitive custom field.
-Password Enter a password to secure your export file.
-Click Export.
+For physical records or to provide a hard copy of a bill, you can print it directly from MindX Inventory:
+
+- Go to **Purchases** on the left sidebar and select **Bills**.
+- Select the bill you wish to print.
+- On the detail page ,Click on the **PDF/print**,Click on the Print option.
+- Review the Preview and click Print to finalize.
+  Printing bills helps keep your documentation organized and provides a tangible reference for your financial transactions.
+
+## **Delete a Bill**
+
+If you find a bill is no longer necessary, you can remove it easily:
+
+- Navigate to **Purchases** and select **Bills**.
+- Locate the bill you want to delete.
+- Select the **checkbox** next to the bill you want to mark for deletion.
+- Click the **Delete** button at the top of the page.
+
+Removing unnecessary bills keeps your records tidy and enhances your overall management efficiency.
