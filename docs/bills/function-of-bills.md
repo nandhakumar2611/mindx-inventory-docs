@@ -1,4 +1,4 @@
-# **Basic Functions in Bills**
+# **Functions in Bills**
 
 Here’s a guide to some basic functions you can perform with Bills in MindX Inventory.
 

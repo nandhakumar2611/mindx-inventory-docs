@@ -10,7 +10,7 @@ The Dashboard tab in MindX Inventory delivers a quick yet comprehensive view of 
 
 The Sales Overview widget showcases critical metrics such as total sales, revenue, profit, and cost. Alongside these, percentage changes over the previous period help you monitor your business growth effectively and identify areas for improvement.
 
-![sale overview]()
+![alt text](../documantation-images/sales-overview.png)
 
 **Sales**: Displays the total number of sales transactions completed within the period.
 
@@ -26,7 +26,7 @@ The Sales Overview widget showcases critical metrics such as total sales, revenu
 
 The Purchase Overview widget offers detailed insights into your purchasing activities. It includes metrics for total purchases, cancellations, costs, and returns, helping you analyze and streamline your procurement processes.
 
-![Purchase Overview](file:///D:/mindx/documantation-images/dashboard/purchase-overview.svg)
+![Purchase Overview](/dashboard.png)
 
 **Purchases**: Displays the total number of items or orders purchased.
 

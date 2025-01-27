@@ -2,12 +2,12 @@
 
 The Bill section in MindX Inventory allows users to manage and track vendor-related expenses, serving as official records of purchases with details on items, costs, and payment terms. This functionality streamlines financial monitoring and simplifies the management of procurement activities.
 
-## [**Basic Functions in Bills**](basic-function-of-bills.md)
+## [**Basic Functions in Bills**](function-of-bills.md)
 
 This section highlights the essential functions related to bills, including creating new bills and viewing existing bills for effective management.
 
-- [Create Bill](basic-function-of-bills.md#create-bill)
-- [View Bills](basic-function-of-bills.md#view-bills)
+- [Create Bill](function-of-bills.md#create-bill)
+- [View Bills](function-of-bills.md#view-bills)
 
 ## [**Manage Bills**](manage-bills.md)
 
