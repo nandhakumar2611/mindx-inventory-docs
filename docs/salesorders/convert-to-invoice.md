@@ -7,6 +7,7 @@ After you’ve created a sales order and sent the items to your customers, you m
 - On the Details page, Click on **Convert to Invoice** button
 - In the New Invoice page, you’ll notice that the details from the sales order are auto-populated for your convenience.
 - You can then **save** and send the invoice to your customer.
-  Once the sales order is invoiced, its status will automatically change to Closed, indicating that the order has been completed.
+
+Once the sales order is invoiced, its status will automatically change to Closed, indicating that the order has been completed.
 
 This feature streamlines your workflow, making it easy to transition from sales orders to invoicing without missing a beat!

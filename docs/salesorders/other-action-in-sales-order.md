@@ -8,9 +8,10 @@ If you need to make changes to a sales order—for example, to update quantities
 
 - Go to **Sales** > **Sales Orders**.
 - Locate and select the **sales order** you want to edit.
-- On the Details page, click **Edit** at the top
+- On the Details page, click **Edit** at the top.
 - Make the necessary changes and hit **Save** to update the sales order.
-  By keeping your sales orders up-to-date, you ensure smooth communication and accurate delivery.
+
+By keeping your sales orders up-to-date, you ensure smooth communication and accurate delivery.
 
 ## **Mail a Sales Order to a Customer**
 
@@ -20,7 +21,8 @@ Need to send a sales order to your customer? Mindx Inventory makes it quick and 
 - Select the sales order you want to email.
 - On the **Details page**, click **Email**.
 - Review the email details, make any adjustments if needed, and click **Send**.
-  Sending sales orders promptly ensures your customers stay informed and streamlines the order process!
+
+Sending sales orders promptly ensures your customers stay informed and streamlines the order process!
 
 ## **Download/Print a Sales Order**
 
@@ -30,7 +32,8 @@ For customers who need a hard copy or if you require a printed version for your 
 - Hover over and select the sales order you want to print.
 - On the **Details page**, click **PDF/Print**.
 - Choose PDF to download or Print to generate a hard copy of the document.
-  Having a printed sales order ensures smooth delivery coordination and internal documentation.
+
+Having a printed sales order ensures smooth delivery coordination and internal documentation.
 
 ## Delete Sales Order
 

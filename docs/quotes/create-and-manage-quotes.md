@@ -45,4 +45,5 @@ If you’ve already created quotes, you can easily view them. Here’s how:
 
 - Navigate to **Sales** > **Quotes**.
 - Select the quote you wish to view.
-  This enables you to track your proposals, manage customer expectations, and streamline the sales process effectively.
+
+This enables you to track your proposals, manage customer expectations, and streamline the sales process effectively.

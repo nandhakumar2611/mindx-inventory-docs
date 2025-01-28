@@ -39,6 +39,7 @@ Creating a new purchase order is straightforward. Here’s how to do it:
 
 If you’ve already created purchase orders, you can easily view them. Here’s how:
 
-- Go to Purchases > Purchase Orders.
+- Go to **Purchases** > **Purchase Orders**.
 - Select the purchase order you wish to view.
-  This allows you to keep track of your orders and manage your inventory effectively.
+
+This allows you to keep track of your orders and manage your inventory effectively.

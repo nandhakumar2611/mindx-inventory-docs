@@ -5,7 +5,7 @@ Mindx Inventory allows you to do this with ease. Here’s how:
 
 - Go to **Sales** > **Sales Orders**.
 - Select the sales order that you want to convert into a purchase order.
-- on the detail page , Click on** Convert to Purchase Order**.
+- on the detail page , Click on **Convert to Purchase Order**.
 - Save the **purchase order**.
 
 This feature helps streamline your inventory management process, ensuring that you can fulfill customer orders without delay!

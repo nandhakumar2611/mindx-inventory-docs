@@ -53,5 +53,5 @@ If a warehouse is no longer operational:
 
 - Go to **Settings** > **Warehouses**.
 - Select the warehouse by clicking the checkbox and then click the **Delete** button at the top.
-- Confirm the action in the pop-up that appears.
-  Note: You cannot delete a warehouse with associated transactions. Instead, mark it as inactive to keep your records intact.
+
+> Note: You cannot delete a warehouse with associated transactions. Instead, mark it as inactive to keep your records intact.

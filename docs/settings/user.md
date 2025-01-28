@@ -12,11 +12,11 @@ To add a new user to your Mindx Inventory organization:
 
 - Click the **+ Invite User** button in the top-right corner.
 
-Fill in the required fields:
+  - Fill in the required fields:
 
-- Name
-- Email
-- Phone
+  - Name
+  - Email
+  - Phone
 
 - Click **Save** to send an invitation email.
   The user must verify the invitation and set up their login credentials.
@@ -57,5 +57,5 @@ Editing User Details
 
 If a user no longer requires access to your organization:
 
-- Select the user from the list.
-- Click on **Delete** in the settings menu or Edit option.
+- Select the **Checkbox** next to the user from the list.
+- Click on **Delete** button presentent in top right corner .

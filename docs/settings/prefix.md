@@ -22,7 +22,7 @@ This table allows users to review their prefix settings at a glance, ensuring st
 
 To modify an existing prefix:
 
-- Locate the prefix you wish to edit in the table.
+- Go to **Setting** > **prefix** .
 - Click on the **Edit** button in the respective row under the Actions column.
 
 Update the necessary details in the required fields :
@@ -30,4 +30,5 @@ Update the necessary details in the required fields :
 - **Prefix**: Enter the desired format for the prefix (e.g., SO-25-).
 - **Starting Number**: Set the initial sequence number for the prefix (e.g., 1).
 - After making the changes, click **Save** to apply them.
-  This feature allows you to maintain flexibility and adapt prefix settings as your business requirements evolve.
+
+This feature allows you to maintain flexibility and adapt prefix settings as your business requirements evolve.
