@@ -10,7 +10,6 @@ The Dashboard tab in MindX Inventory delivers a quick yet comprehensive view of 
 
 The Sales Overview widget showcases critical metrics such as total sales, revenue, profit, and cost. Alongside these, percentage changes over the previous period help you monitor your business growth effectively and identify areas for improvement.
 
-![alt text](../documantation-images/sales-overview.png)
 
 **Sales**: Displays the total number of sales transactions completed within the period.
 
@@ -26,7 +25,6 @@ The Sales Overview widget showcases critical metrics such as total sales, revenu
 
 The Purchase Overview widget offers detailed insights into your purchasing activities. It includes metrics for total purchases, cancellations, costs, and returns, helping you analyze and streamline your procurement processes.
 
-![Purchase Overview](/dashboard.png)
 
 **Purchases**: Displays the total number of items or orders purchased.
 
@@ -40,7 +38,6 @@ The Purchase Overview widget offers detailed insights into your purchasing activ
 
 This component gives you a high-level overview of your stock levels, ensuring that you stay informed about inventory availability and incoming shipments:
 
-![Inventory Summary]()
 
 **Quantity in Hand**: Indicates the total inventory currently available in your warehouse or store.
 
@@ -50,7 +47,6 @@ This component gives you a high-level overview of your stock levels, ensuring th
 
 The Product Summary widget provides an at-a-glance overview of your suppliers and product categories, enabling better management of your product offerings and supplier relationships:
 
-![Product Summary]()
 
 **Suppliers**: Displays the total number of suppliers associated with your business.
 
@@ -60,7 +56,6 @@ The Product Summary widget provides an at-a-glance overview of your suppliers an
 
 The Order Summary chart visualizes trends in your order management process. It helps you track the status and volume of orders over time, identifying seasonal trends or periods of high demand:
 
-![Order Summary]()
 
 **Ordered**: Shows the total number of orders placed by your business or customers.
 
@@ -70,7 +65,6 @@ The Order Summary chart visualizes trends in your order management process. It h
 
 This section highlights your best-performing products, giving you insights into customer preferences and demand patterns. The displayed information includes:
 
-![Top Selling Stock]()
 
 **Name**: The product name for easy identification.
 
@@ -86,7 +80,6 @@ Click See All to access the complete list of top-performing products, helping yo
 
 The Low Quantity Stock section provides a snapshot of items with critically low stock levels, enabling proactive restocking. Each product entry includes:
 
-![Low Quantity Stock]()
 
 **Image**: A visual representation of the product for quick recognition.
 
