@@ -21,6 +21,10 @@ If an invoice is saved as a draft, you can send it manually:
 - On the detail page ,Click the **Email** option.
 - Review the email details, make any adjustments, and click **Send**.
 
+!!! Tip
+
+      Before sending an invoice, double-check the details to avoid errors that may delay payments or cause disputes.
+
 Sending invoices promptly ensures a smooth transaction process and timely payments.
 
 ## **Download an Invoice as PDF**
@@ -54,6 +58,8 @@ If an invoice is no longer required, you can remove it easily:
 - Select the **checkbox** next to the invoice .
 - Click **Delete** Button on top right corner .
 
-> Note: Ensure any recorded payments linked to the invoice are deleted before proceeding. Deleted invoices cannot be recovered.
+!!! Note
+
+      Ensure any recorded payments linked to the invoice are deleted before proceeding. Deleted invoices cannot be recovered.
 
 Deleting unnecessary invoices keeps your records organized and free of clutter.

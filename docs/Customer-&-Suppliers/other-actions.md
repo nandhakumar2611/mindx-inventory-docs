@@ -11,6 +11,9 @@ To modify the details of any customer or supplier:
 - Make the necessary changes.
 - Click **Save** to update the details.
 
+!!! info
+When editing customer or supplier information, ensure that all changes are accurate to maintain reliable records.
+
 ## **Filter Customers/Suppliers**
 
 You can sort customers or suppliers based on specific criteria:
@@ -40,5 +43,9 @@ If you need to remove a supplier, follow these steps to delete them:
 - Locate the supplier you wish to delete from the list.
 - Select the checkbox next to the supplier you want to mark for deletion.
 - Click the **Delete** button at the bottom of the page.
+
+!!! Warning
+
+      Deleting unnecessary suppliers ensures your supplier list remains relevant and manageable. However, ensure that there are no outstanding transactions linked to the supplier before deletion, as this action is irreversible.
 
 Deleting unnecessary suppliers ensures your supplier list remains relevant and manageable.

@@ -39,3 +39,7 @@ If you’ve already created bills, you can easily view them. Here’s how:
 - Navigate to **Purchases** > **Bills**.
 - Select the bill you wish to view.
   This allows you to keep track of your expenses, manage vendor payments, and maintain accurate financial records.
+
+!!! abstract "Prerequisite"
+
+      Ensure you have the necessary permissions to create or edit bills in MindX Inventory.

@@ -10,6 +10,10 @@ If you need to make changes to a purchase order—for example, to update quantit
 - Make the necessary changes and hit **Save** to update the purchase order.
   Keeping your purchase orders up-to-date ensures accurate inventory management and smooth supplier communication.
 
+!!! Note
+
+      Keeping your purchase orders up-to-date ensures accurate inventory management and smooth supplier communication.
+
 ## **Download/Print a Purchase Order**
 
 For suppliers who require a hard copy or if you need a printed version for your records, printing a purchase order is straightforward:
@@ -19,7 +23,9 @@ For suppliers who require a hard copy or if you need a printed version for your 
 - On the Details page, click the option to **PDF/Print**.
   Choose to download as PDF or directly print the document.
 
-Having a printed copy of your purchase orders helps keep your records organized and provides a physical reference for your transactions.
+!!! example "Insight"
+
+      Having a printed copy of your purchase orders helps keep your records organized and provides a physical reference for your transactions.
 
 ## **Mail the Purchase Order**
 
@@ -40,4 +46,8 @@ If you need to remove a purchase order, follow these steps to delete it:
 - Select the **checkbox** next to the purchase orders you want to mark for deletion.
 - Click the **Delete** button at the bottom of the page.
 
-Removing outdated purchase orders contributes to maintaining an organized and current record-keeping system.
+!!! Warning
+
+     Removing outdated purchase orders contributes to maintaining an organized and current record-keeping system. Be cautious, as this action cannot be undone.
+
+It may be helpful to archive or keep records of important purchase orders before deletion for future reference.

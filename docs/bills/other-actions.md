@@ -9,7 +9,11 @@ If you need to update the details of a bill, the process is simple:
 - On the detail page ,Click the Edit option at the top of the page.
 - Make the necessary changes to the bill details.
 - Click **Save** to update the bill.
-  Keeping your bills accurate ensures reliable financial records and smooth transactions with your vendors.
+
+Keeping your bills accurate ensures reliable financial records and smooth transactions with your vendors.
+
+!!! Tip
+Keeping your bills accurate ensures reliable financial records and smooth transactions with your vendors. Regularly reviewing bills can help catch any discrepancies early.
 
 ## **Email the Bill**
 
@@ -32,7 +36,9 @@ To maintain a digital copy of your bills, you can easily download them as PDFs:
 - On the detail page ,Click on the **PDF/print**,Choose to download as PDF.
 - Choose your preferred download location and save the file.
 
-Having your bills saved as PDFs allows for easy sharing and secure storage.
+!!! Note
+
+      Having your bills saved as PDFs allows for easy sharing and secure storage, making it convenient for future reference.
 
 ## **Print a Bill**
 
@@ -52,5 +58,9 @@ If you find a bill is no longer necessary, you can remove it easily:
 - Locate the bill you want to delete.
 - Select the **checkbox** next to the bill you want to mark for deletion.
 - Click the **Delete** button at the top of the page.
+
+!!! Warning
+
+       Always ensure that you have accurate records before deleting a bill. Once a bill is deleted, all associated data will be permanently lost and cannot be recovered.
 
 Removing unnecessary bills keeps your records tidy and enhances your overall management efficiency.

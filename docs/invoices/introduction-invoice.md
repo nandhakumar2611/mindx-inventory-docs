@@ -32,7 +32,12 @@ Steps to Create an Invoice:
     - **Items Table**: Item, Quantity, Price, Tax, Amount
     - **Footer Section**: Customer Notes, Subtotal, Tax, Total
 - Review the details for accuracy before finalizing the invoice.
-  This process will help you accurately create invoices for your customers.
+
+!!! Warning
+
+      Ensure that all required fields are filled out correctly to prevent delays in invoice processing and customer payments.
+
+This process will help you accurately create invoices for your customers.
 
 ## **Creating an Invoice From a Sales Order**
 
@@ -51,5 +56,7 @@ If you’ve already created invoices, you can easily view them. Here’s how:
 
 - Navigate to the **Invoices** section.
 - Select the invoice you wish to view.
+  !!! example "Insight"
+  Regularly reviewing your invoices allows you to identify any overdue payments and take proactive steps to follow up with customers, improving your cash flow management.
 
 This helps you keep track of your sales, manage customer payments, and maintain accurate financial records.

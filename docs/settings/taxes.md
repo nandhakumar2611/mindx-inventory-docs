@@ -26,6 +26,10 @@ To add a new tax:
   After entering all the required details, click **Save** to successfully add the tax to your inventory system.
   This process ensures that your tax settings are up-to-date and compliant.
 
+!!! Info
+
+      Make sure the tax percentage entered is accurate to avoid discrepancies in financial calculations.
+
 ### **Editing Taxes**
 
 To modify an existing tax:

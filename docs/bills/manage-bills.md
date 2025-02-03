@@ -14,6 +14,10 @@ A bill in MindX Inventory can have any of the following statuses:
 | Unpaid                                                | No payments have been recorded for the bill. |
 | Paid                                                  | The bill is fully paid.                      |
 
+!!! example "Insight"
+
+     Regularly monitoring the status of bills helps ensure timely payments and effective cash flow management.
+
 ## **Filter Bills**
 
 Easily filter your bills based on their status or other criteria.

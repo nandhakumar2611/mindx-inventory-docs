@@ -10,6 +10,14 @@ You can sort sales orders based on specific criteria to find the information you
 
 Sorting your sales orders helps you quickly access relevant information, enhancing your order management process.
 
+!!! Tip
+
+     Utilize multiple filter criteria to narrow down your search results effectively, especially if you have a large number of sales orders.
+
+!!! example "Insight"
+
+     Effective filtering not only saves time but also improves your ability to respond to customer inquiries promptly, enhancing overall service quality.
+
 ## **Refresh List for Sales Orders**
 
 Keep your sales order list updated to ensure you have the latest information. Here’s how you can refresh the list:
@@ -19,3 +27,7 @@ Keep your sales order list updated to ensure you have the latest information. He
 - Click **Refresh List**.
 
 Refreshing your sales order list ensures you are always viewing the most current data for effective management.
+
+!!! Note
+
+     If you experience issues with loading or refreshing the list, try clearing your browser cache or checking your internet connection.

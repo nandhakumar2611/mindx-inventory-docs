@@ -47,15 +47,15 @@ Steps to Import Items
 
 - Choose to Skip or Overwrite records during import.
 
-> Skip: Skips duplicate entries.
-> Overwrite: Updates existing entries with matching fields (case-sensitive).
-
 Settings During Import
 
 - Map the fields from your file to the system fields on the Map Fields page.
 - Save the mapping for future imports by checking Save these selections for future imports.
 - Review the Preview window and click Import.
-  > Note: The maximum file size for import is 1 MB.
+
+!!! Note
+
+      The maximum file size for import is 1 MB.
 
 ## **Inventory Tracking for Items**
 

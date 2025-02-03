@@ -42,6 +42,10 @@ Follow these steps to create a sales order:
 - Enter any additional details, such as customer notes or specific delivery instructions.
 - Review the subtotal, tax, and total amount to ensure accuracy before finalizing the order.
 
+!!! Tip
+
+     Double-check the delivery date to ensure timely fulfillment of the order, especially during peak seasons.
+
 Creating a sales order efficiently organizes your sales process and helps manage customer relationships effectively.
 
 ## **Converting a Quote to a Sales Order**
@@ -60,6 +64,11 @@ Steps:
 
 - Save the sales order as a draft or send it to your customer.
 
+
+!!! example "Insight"
+
+    Streamlining the conversion process from quotes to sales orders can significantly enhance operational efficiency and minimize manual data entry errors.
+
 ## **View Sales Orders**
 
 If you’ve already created sales orders, you can easily view them. Here’s how:
@@ -68,3 +77,7 @@ If you’ve already created sales orders, you can easily view them. Here’s how
 - Select the sales order you wish to view.
 
 This enables you to track your sales, monitor customer orders, and manage your inventory effectively.
+
+!!! Note
+
+     Consider implementing a systematic naming or numbering convention for sales orders to enhance organization and retrieval.

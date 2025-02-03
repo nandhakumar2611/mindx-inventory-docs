@@ -8,6 +8,10 @@ The MindX Inventory Dashboard provides a comprehensive snapshot of key business 
 
 **Order Summary Graph**: The line graph visualizes ordered versus delivered quantities over time, making it easier to track fulfillment rates and assess operational efficiency.
 
+!!! example "Insight"
+
+       Monitoring fulfillment rates can help identify bottlenecks in the supply chain and improve order processing.
+
 These visual representations ensure that users can quickly grasp complex data and identify opportunities or issues at a glance.
 
 ## **Stock Insights**
@@ -16,11 +20,19 @@ These visual representations ensure that users can quickly grasp complex data an
 
 **Low-Quantity Stock Alerts**: Products that are nearing low stock levels are prominently displayed, ensuring timely restocking. This feature minimizes the risk of stockouts, helping maintain uninterrupted operations.
 
+!!! abstract "Prerequisite"
+
+      Ensure that stock levels are accurately updated in the system to benefit from low-stock alerts.
+
 These insights make it easy for users to prioritize their stock management strategies and maintain an efficient inventory.
 
 ### **Adjustable Timeframes**
 
 The MindX Inventory Dashboard enables users to switch between weekly, monthly, or yearly views for all metrics and graphs. This flexibility allows businesses to zoom in on short-term performance or evaluate long-term trends, providing a tailored perspective that aligns with their goals.
+
+!!! Tip
+
+      Utilize the adjustable timeframes to perform seasonal analysis and anticipate future demand based on historical data.
 
 ## **Reset Data**
 

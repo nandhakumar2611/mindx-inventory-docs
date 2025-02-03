@@ -20,3 +20,7 @@ In addition to standard roles like Admin and User, MindX Inventory allows you to
 - Click the **+ Add** Role button in the top right corner of the page.
 - Select the modules and specify the level of access for the new role.
 - Click **Save** to finalize the custom role.
+
+!!! Warnings
+
+    Be cautious when assigning access levels to custom roles; providing excessive access may lead to unauthorized actions or data exposure.

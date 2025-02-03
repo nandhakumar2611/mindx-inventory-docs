@@ -1,4 +1,4 @@
-# **Introductio- Quotes**
+# **Introduction- Quotes**
 
 A quote is a formal document sent to a customer, outlining the items or services to be delivered, their quantities, pricing, and additional terms. In MindX Inventory, the Quotes feature allows you to create, send, and manage quotes seamlessly.
 
@@ -23,6 +23,10 @@ Below is the New Quote creation interface for MindX Inventory:
 |                | Tax            | Displays the total tax applied.                                             |
 |                | Total          | Displays the grand total, including tax                                     |
 
+!!! example "Insight"
+
+     Understanding the key elements of the New Quote page is essential for effective management. Focus on the Items Table for accurate quantities and tax rates, ensuring precise pricing that meets customer needs and streamlines the sales process.
+
 ## **Steps to Create a New Quote**
 
 - Navigate to the Quotes section under Sales.
@@ -36,8 +40,9 @@ Fill out the required fields:
 - Review the subtotal, tax, and total amount.
 - Click **Save** to finalize or Cancel to discard the changes.
 
-> Pro Tip
-> Configure warehouses, tax rates, and pricing rules in the Settings section beforehand to streamline the quote creation process.
+!!! Tip
+
+     Configure warehouses, tax rates, and pricing rules in the Settings section beforehand to streamline the quote creation process.
 
 ## **View Quotes**
 
@@ -45,5 +50,9 @@ If you’ve already created quotes, you can easily view them. Here’s how:
 
 - Navigate to **Sales** > **Quotes**.
 - Select the quote you wish to view.
+
+!!! Insight
+
+     Regularly reviewing your quotes can help you identify trends in customer preferences and improve your pricing strategies.
 
 This enables you to track your proposals, manage customer expectations, and streamline the sales process effectively.

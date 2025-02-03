@@ -21,7 +21,13 @@ To add a new user to your Mindx Inventory organization:
 - Click **Save** to send an invitation email.
   The user must verify the invitation and set up their login credentials.
 
-> Note: Only Admin users can invite new users.
+!!! Note
+
+      Only Admin users can invite new users.
+
+!!! Info
+
+     Users must complete the activation process within 24 hours of receiving the invitation email, or the link will expire.
 
 ### **Activating a Newly Added User**
 
@@ -51,11 +57,13 @@ Editing User Details
 - Modify the required fields (name, email, phone).
 - Click **Save** to update the information.
 
-> Note: Only Admin users have permission to edit user details.
-
 ### **Deleting a User**
 
 If a user no longer requires access to your organization:
+
+!!! abstract "Prerequisites"
+
+      Ensure that you have the necessary administrative privileges to add, edit, or delete users.
 
 - Select the **Checkbox** next to the user from the list.
 - Click on **Delete** button presentent in top right corner .

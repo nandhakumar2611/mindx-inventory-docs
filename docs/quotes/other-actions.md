@@ -28,7 +28,13 @@ Need to send a quote to your customer? Mindx Inventory makes it easy to email qu
 
 - Review the email details, make adjustments if needed, and click **Send**.
 
-> Note: The quote status will automatically update to "Sent" once the email is sent.
+!!! Note
+
+     The quote status will automatically update to "Sent" once the email is sent.
+
+!!! info
+
+     Ensure you have the correct email address for the customer to avoid miscommunication.
 
 ## **Download/Print a Quote**
 
@@ -42,18 +48,30 @@ For customers who require a hard copy or if you need a printed version for your 
 
 - Choose PDF to download or Print to print the document.
 
+!!! Info
+
+     Saving a copy of the quote in PDF format can help maintain records for future reference.
+
 ## **Delete a Quote**
 
 If you need to remove a quote from the system, follow these steps. Keep in mind that quotes with associated invoices or retainer invoices cannot be deleted until those are removed.
 
-**Prerequisite:** Delete associated invoices or retainer invoices before deleting a quote.
+!!! abstract "Prerequisite"
+
+     Delete associated invoices or retainer invoices before deleting a quote.
 
 - Go to **Sales** on the left sidebar and select **Quotes**.
 - Locate the quotes you wish to delete from the list.
 - Select the **checkbox** next to the quotes to mark it for deletion.
 - Click the **Delete** button at the bottom of the page.
 
-Warning: Deletion is permanent, so ensure you no longer need the quote before proceeding.
+!!! Warning
+
+      Deletion is permanent, so ensure you no longer need the quote before proceeding.
+
+!!! example "Insight"
+
+     Regularly reviewing and managing your quotes helps maintain clear communication with customers and can lead to improved conversion rates in your sales process.
 
 Managing quotes in Mindx Inventory allows you to handle every aspect of the quoting process with ease. By following these steps, you can ensure your quotes are always accurate, up-to-date, and shared with customers efficiently.
 

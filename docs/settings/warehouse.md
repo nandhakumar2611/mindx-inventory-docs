@@ -11,6 +11,10 @@ To add a new warehouse to your organization:
 - Enter the required warehouse details, including name, email, phone, and address.
 - Click **Save** to add the warehouse. It will now appear in your warehouse list.
 
+!!! Info
+
+      You can only have one primary warehouse at a time. Choose it based on your main operational requirements.
+
 ## **Change Warehouse Status**
 
 **Designate a Primary Warehouse**
@@ -20,7 +24,9 @@ The primary warehouse acts as the default location for all transactions. To desi
 - Click the **Make as Primary** option next to the desired warehouse.
 - Confirm your selection in the pop-up that follows. The selected warehouse will now act as the primary.
 
-Pro Tip: You can only have one primary warehouse at a time. Choose it based on your main operational requirements.
+!!! Tip
+
+      You can only have one primary warehouse at a time. Choose it based on your main operational requirements.
 
 ## **Deactivate & Reactivate a Warehouse**
 
@@ -31,13 +37,15 @@ If a warehouse is temporarily not in use, you can deactivate it.
 - Go to **Settings** > **Warehouses**.
 - Click the Edit button next to the warehouse.
 - Change its Status to Inactive and save.
-  Pro Tip: Before deactivating, transfer any stock to an active warehouse to avoid disruptions.
 
 **To Reactivate**:
 
 - Follow the same steps as above, but set the Status to Active.
 
-Important: You cannot deactivate the current primary warehouse without assigning another warehouse as primary.
+!!! Info
+
+      You cannot deactivate the current primary warehouse without assigning another warehouse as
+       primary.
 
 ## **Edit Warehouse Details**
 
@@ -54,4 +62,8 @@ If a warehouse is no longer operational:
 - Go to **Settings** > **Warehouses**.
 - Select the warehouse by clicking the checkbox and then click the **Delete** button at the top.
 
-> Note: You cannot delete a warehouse with associated transactions. Instead, mark it as inactive to keep your records intact.
+??? Warning
+
+    - Data Loss: Deleting a warehouse permanently removes its details and any related information. Ensure you have backed up all necessary data before proceeding.
+
+    - Transaction Impact: Deactivating a warehouse can affect any pending transactions. Confirm that no transactions are in progress before changing the warehouse status.

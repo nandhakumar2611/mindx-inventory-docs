@@ -19,6 +19,10 @@ To quickly locate the purchase orders you need, you can sort them based on speci
 
 Filtering your purchase orders allows you to find relevant information swiftly, improving your overall procurement management.
 
+!!! Tip
+
+      Filtering your purchase orders allows you to find relevant information swiftly, improving your overall procurement management.
+
 ## **Refresh Purchase Order List**
 
 To ensure your purchase order list is current and accurate, follow these steps to refresh it:
@@ -26,5 +30,8 @@ To ensure your purchase order list is current and accurate, follow these steps t
 - Go to **Purchases** > **Purchase Orders**.
 - Click the **three-dot menu** in the top right corner of the page.
 - Select **Refresh** from the dropdown.
+
+!!! example "Insight"
+Keeping your purchase order list updated helps prevent errors and ensures smooth order processing.
 
 Refreshing the list ensures that you have the most up-to-date information, helping you effectively manage your purchase orders.

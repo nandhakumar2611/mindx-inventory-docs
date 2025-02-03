@@ -8,4 +8,12 @@ Mindx Inventory allows you to do this with ease. Here’s how:
 - on the detail page , Click on **Convert to Purchase Order**.
 - Save the **purchase order**.
 
+!!! Info
+
+      Ensure that all items in the sales order are correctly listed in the purchase order to avoid delays in fulfillment.
+
 This feature helps streamline your inventory management process, ensuring that you can fulfill customer orders without delay!
+
+!!! Note
+
+     Once a sales order is converted into a purchase order, any changes to the purchase order will not affect the original sales order.

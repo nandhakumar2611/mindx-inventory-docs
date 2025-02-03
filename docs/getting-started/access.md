@@ -22,7 +22,9 @@ There are two ways you can sign up for MindX Inventory:
 
 If you’re new to MindX Inventory, sign up for our 14-day free trial to explore all the features included in our full plan. You can upgrade to a paid plan anytime during or after the trial period.
 
-> Insight: Make sure to read the terms of service and privacy policy before signing up for any of MindX's products.
+!!! example "Insight"
+
+      Make sure to read the terms of service and privacy policy before signing up for any of MindX's products.
 
 To sign up for MindX Inventory:
 
@@ -36,4 +38,16 @@ To sign up for MindX Inventory:
 - Click the **Create Your Free Account** button to complete the signup process.
 - Alternatively, you can use the **Sign up with Google** option for a quick and easy registration.
 
+!!! Warning
+
+       Ensure that the email address you provide is active and accessible, as it will be used for account verification and communication.
+
 Once your account is created, you can start exploring the features of MindX Inventory. Get ready to simplify your inventory management and grow your business effortlessly!
+
+!!! Note
+
+      If you experience any issues during the signup process, check your internet connection and try again. If problems persist, consider contacting MindX support for assistance.
+
+---
+
+[next :material/arrow-right:](../getting-started/log-in.md){ .md-button }

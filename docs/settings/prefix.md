@@ -16,6 +16,10 @@ The prefixes you configure are displayed in a tabular format, making it simple t
 
 This table allows users to review their prefix settings at a glance, ensuring standardization across all modules.
 
+!!! example "Insight"
+
+      Consistent prefixes enhance document organization and improve communication within teams. By clearly indicating document types, prefixes facilitate quick identification and retrieval of records, reducing the potential for errors in processing.
+
 ## **Features**
 
 ### **Edit Prefixes**
@@ -31,4 +35,9 @@ Update the necessary details in the required fields :
 - **Starting Number**: Set the initial sequence number for the prefix (e.g., 1).
 - After making the changes, click **Save** to apply them.
 
+!!! Warning
+
+      Changing an existing prefix or starting number can lead to inconsistencies in previously generated documents. It's advisable to communicate any changes to relevant team members.
+
 This feature allows you to maintain flexibility and adapt prefix settings as your business requirements evolve.
+

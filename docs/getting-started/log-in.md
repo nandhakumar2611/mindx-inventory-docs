@@ -8,4 +8,8 @@ Once you’ve signed up for MindX Inventory, you can log in using your registere
     - **Email and Password**: Enter your registered email address and click Next. Then, enter your password and click Sign In.
     - **Sign in with Google**: Click the Sign in with Google button and select your Google account to log in quickly.
 
+!!! Tip
+
+       For a smooth experience, ensure your email and password are correct. Use a password manager to store your credentials securely.
+
 For a smooth experience, ensure your email and password are correct. If you have trouble accessing your account, consider resetting your password or contacting support for assistance. Enjoy using MindX Inventory to manage your operations efficiently!

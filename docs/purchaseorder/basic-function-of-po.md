@@ -33,7 +33,9 @@ Creating a new purchase order is straightforward. Here’s how to do it:
 - Review the subtotal, tax, and total amount to ensure accuracy before finalizing the order.
   Creating a purchase order helps streamline your procurement process and ensures timely inventory replenishment from your suppliers.
 
-> Insight: To create a pre-GST transaction (for transactions dated before July 1, 2017), click the dropdown next to the + New button and select Create Purchase Order (Pre GST).
+!!! example "Insight"
+
+      When creating a purchase order, ensure that the expected delivery date aligns with your inventory needs to prevent stock shortages or overstocking. Proper planning helps maintain a smooth supply chain.
 
 ## **View Purchase Orders**
 

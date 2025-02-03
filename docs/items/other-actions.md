@@ -18,7 +18,9 @@ Update the item details using the Edit Item form, as shown below:
 
 Click **Save** to apply the changes.
 
-> Note: Any changes made to item details will not affect previous transactions.
+!!! Note
+
+     Any changes made to item details will not affect previous transactions.
 
 ## **Delete Item**
 
@@ -31,7 +33,9 @@ Steps to Delete an Item:
 - Select the checkbox next to the item to mark it for deletion.
 - Click the **Delete** button at the bottom of the page.
 
-Note: Ensure that the item is not actively being used in transactions. If the item is still associated with sales or purchase records, you may need to update or archive those records before proceeding with deletion.
+!!! Note
+
+      Ensure that the item is not actively being used in transactions. If the item is still associated with sales or purchase records, you may need to update or archive those records before proceeding with deletion.
 
 ## **Export Items**
 
