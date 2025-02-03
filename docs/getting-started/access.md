@@ -49,5 +49,3 @@ Once your account is created, you can start exploring the features of MindX Inve
       If you experience any issues during the signup process, check your internet connection and try again. If problems persist, consider contacting MindX support for assistance.
 
 ---
-
-[next :material/arrow-right:](../getting-started/log-in.md){ .md-button }
