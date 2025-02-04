@@ -28,6 +28,8 @@ theme:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
+  - attr_list
 
 nav:
   - Introduction:
@@ -50,7 +52,7 @@ nav:
       - Pricing: settings/pricing.md
   - Customer & Suppliers:
       - Overview: customer-&-suppliers/overview.md
-      - Introduction: customer-&-suppliers/introduction.md
+      - Introduction- Customer & Supplier: customer-&-suppliers/introduction.md
       - Other Actions: customer-&-suppliers/other-actions.md
   - Quotes:
       - Overview: quotes/overview.md
