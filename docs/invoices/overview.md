@@ -1,88 +1,29 @@
-Sales Transactions
-What is a Sales Order?
-A sales order is a financial document that confirms an impending sale. It details the exact quantity, price and delivery details of the products or services being sold. Perform the simple operations mentioned below to create and manage your Sales Orders.
+# **Invoice Overview**
 
-Guide Layout:
-Creating Sales Orders <–> Managing Sales Orders <–> Additional tools that aid sales <–> Invoices <–> Packages <–> Shipping <–> Sales Persons <–> Multi-warehouse Operations
+The Invoice Overview provides a comprehensive understanding of invoicing processes, highlighting key functionalities for creating, managing, and tracking invoices effectively.
 
-Sales Order Workflow Diagram
-Sales order workflow
+## [**Introduction- Invoice**](introduction-invoice.md)
 
-Creating Sales Orders
-Creating a New Sales Order
-Creating Sales Orders from Contacts
-Importing Sales Orders
-Generating Online Orders
-Creating a drop shipment
-Managing Sales Orders
-Status of a Sales Order
-Sending a Sales Order to your Customer
-Converting a Sales Order from Draft to Confirmed Status
-Converting a Sales Order to Purchase Order
-Converting a Sales Order into an Invoice
-Sales order to Packages
-Packaging to Shipping
-Additional tools that aid sales
-Exporting Sales Orders
-Attaching Files to Sales Orders
-Editing a Sales Order
-Cloning a Sales Order
-Printing a Sales Order
-Saving a Sales Order as a PDF document
-Mailing a Sales Order
-Deleting a Sales Order
-Voiding a Sales Order
-Quick Boxing of composite items from sales transactions
-Invoices
-Status of Invoices
-Invoice Workflow Diagram
-Creating a New Invoice
-Method 1: Direct invoicing
-Method 2: From a sales order
-Importing invoices
-Exporting invoices
-Send Invoices to Customers
-More Actions with Invoices
-Editing an invoice
-Saving an invoice as a PDF
-Printing an invoice
-Voiding an invoice
-Writing off an invoice
-Attaching a file to an invoice
-Deleting an invoice
-Invoice payments
-Recording Payments
-Recording payments manually
-Charging a customer
-Payments Received
-Details on a payment receipt
-Managing your payment receipts
-Importing and exporting invoice payments
-Packages
-Prerequisites
-Package Workflow Diagram
-Creating packages
-Ease of Access
-Status of packages
-Managing your packages
-Shipping
-Prerequisites
-Creating shipments
-Ship Manually
-Ship via Carrier
-Ease of Access
-Managing your shipments
-Marking a Delivery
-Export/Save package slips and shipment orders as PDF
-Printing package slips & shipment orders
-Delete a shipment
-Mark as Undelivered
-Downloading a Shipping Label
-Sales Persons
-Enabling sales persons for your organization
-Adding a new sales person
-Merging sales persons
-Marking a sales person inactive
-Marking a sales person active
-Deleting sales persons
-Sales by Sales Person report
+The Invoice section covers the processes of creating, viewing, and managing invoices within MindX Inventory, ensuring efficient financial transactions with your customers.
+
+- [How Does an Invoice Work?](introduction-invoice.md#how-does-an-invoice-work)
+- [Create Invoice](introduction-invoice.md#create-invoice)
+- [Creating an Invoice From a Sales Order](introduction-invoice.md#creating-an-invoice-from-a-sales-order)
+- [View Invoices](introduction-invoice.md#view-invoices)
+
+## [**Manage Invoice**](manage-invoice.md)
+
+The Manage Invoice section provides tools for filtering and refreshing your invoice list, enabling you to maintain accurate and up-to-date records.
+
+- [Filter Invoices](manage-invoice.md#filter-invoices)
+- [Refresh List](manage-invoice.md#refresh-list)
+
+## [**Other action in Invoice**](other-actions-in-invoice.md)
+
+The Other Actions in Invoice section includes options for editing, sending, downloading, and printing invoices, allowing for efficient management of your invoicing process.
+
+- [Edit an Invoice](other-actions-in-invoice.md#edit-an-invoice)
+- [Send an Invoice to a Customer](other-actions-in-invoice.md#send-an-invoice-to-a-customer)
+- [Download an Invoice as PDF](other-actions-in-invoice.md#download-an-invoice-as-pdf)
+- [Print an Invoice](other-actions-in-invoice.md#print-an-invoice)
+- [Delete an Invoice](other-actions-in-invoice.md#delete-an-invoice)

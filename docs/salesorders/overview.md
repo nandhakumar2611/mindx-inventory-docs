@@ -1,88 +1,33 @@
-Sales Transactions
-What is a Sales Order?
-A sales order is a financial document that confirms an impending sale. It details the exact quantity, price and delivery details of the products or services being sold. Perform the simple operations mentioned below to create and manage your Sales Orders.
+# **SalesOrder Overview**
 
-Guide Layout:
-Creating Sales Orders <–> Managing Sales Orders <–> Additional tools that aid sales <–> Invoices <–> Packages <–> Shipping <–> Sales Persons <–> Multi-warehouse Operations
+The Sales Order section in MindX Inventory streamlines the order processing and management workflow, allowing users to create, track, and manage sales orders efficiently. This functionality ensures accurate order fulfillment and enhances overall customer satisfaction.
 
-Sales Order Workflow Diagram
-Sales order workflow
+## [**Introduction - Sales Order**](introduction-sales-order.md)
 
-Creating Sales Orders
-Creating a New Sales Order
-Creating Sales Orders from Contacts
-Importing Sales Orders
-Generating Online Orders
-Creating a drop shipment
-Managing Sales Orders
-Status of a Sales Order
-Sending a Sales Order to your Customer
-Converting a Sales Order from Draft to Confirmed Status
-Converting a Sales Order to Purchase Order
-Converting a Sales Order into an Invoice
-Sales order to Packages
-Packaging to Shipping
-Additional tools that aid sales
-Exporting Sales Orders
-Attaching Files to Sales Orders
-Editing a Sales Order
-Cloning a Sales Order
-Printing a Sales Order
-Saving a Sales Order as a PDF document
-Mailing a Sales Order
-Deleting a Sales Order
-Voiding a Sales Order
-Quick Boxing of composite items from sales transactions
-Invoices
-Status of Invoices
-Invoice Workflow Diagram
-Creating a New Invoice
-Method 1: Direct invoicing
-Method 2: From a sales order
-Importing invoices
-Exporting invoices
-Send Invoices to Customers
-More Actions with Invoices
-Editing an invoice
-Saving an invoice as a PDF
-Printing an invoice
-Voiding an invoice
-Writing off an invoice
-Attaching a file to an invoice
-Deleting an invoice
-Invoice payments
-Recording Payments
-Recording payments manually
-Charging a customer
-Payments Received
-Details on a payment receipt
-Managing your payment receipts
-Importing and exporting invoice payments
-Packages
-Prerequisites
-Package Workflow Diagram
-Creating packages
-Ease of Access
-Status of packages
-Managing your packages
-Shipping
-Prerequisites
-Creating shipments
-Ship Manually
-Ship via Carrier
-Ease of Access
-Managing your shipments
-Marking a Delivery
-Export/Save package slips and shipment orders as PDF
-Printing package slips & shipment orders
-Delete a shipment
-Mark as Undelivered
-Downloading a Shipping Label
-Sales Persons
-Enabling sales persons for your organization
-Adding a new sales person
-Merging sales persons
-Marking a sales person inactive
-Marking a sales person active
-Deleting sales persons
-Sales by Sales Person report
+The Sales Order section provides an overview of the process for creating, converting, and viewing sales orders within MindX Inventory.
+
+- [Creating a Sales Order](introduction-sales-order.md#creating-a-sales-order)
+- [Converting a Quote to a Sales Order](introduction-sales-order.md#converting-a-quote-to-a-sales-order)
+- [View Sales Orders](introduction-sales-order.md#view-sales-orders)
+
+## [**convert to invoice**](convert-to-invoice.md)
+
+The "Convert to Invoice" feature streamlines billing by transforming sales orders into invoices, automatically populating details like products, quantities, and pricing. This reduces manual entry and improves efficiency.
+
+## [**convert to purchaseOrder**](convert-to-purchase-order.md)
+
+The "Convert to Purchase Order" feature lets you create purchase orders directly from sales orders, carrying over item details, quantities, and pricing automatically. This streamlines procurement, reduces errors, and improves inventory management.
+
+## [**Manage Sales Order**](manage-sales-order.md)
+
+- [Filter Sales Orders](manage-sales-order.md#filter-sales-orders)
+- [Refresh List for Sales Orders](manage-sales-order.md#refresh-list-for-sales-orders)
+
+## [**Other Action in sales Order**](other-action-in-sales-order.md)
+
+This section outlines additional functionalities available for managing sales orders, including editing, sending, printing, filtering, and deleting orders to enhance operational efficiency.
+
+- [Edit a Sales Order](other-action-in-sales-order.md#edit-a-sales-order)
+- [Send a Sales Order to a Customer](other-action-in-sales-order.md#send-a-sales-order-to-a-customer)
+- [Download/Print a Sales Order](other-action-in-sales-order.md#downloadprint-a-sales-order)
+- [Delete Sales Order](other-action-in-sales-order.md#delete-sales-order)
