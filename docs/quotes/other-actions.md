@@ -16,6 +16,8 @@ Sometimes, you may need to modify a quote to reflect updated pricing, additional
 
 - Click **Save** to save the quote or Save and Send to save and send the quote to the customer.
 
+---
+
 ## **Email the Quote to the Customer**
 
 Need to send a quote to your customer? Mindx Inventory makes it easy to email quotes directly.
@@ -36,6 +38,8 @@ Need to send a quote to your customer? Mindx Inventory makes it easy to email qu
 
      Ensure you have the correct email address for the customer to avoid miscommunication.
 
+---
+
 ## **Download/Print a Quote**
 
 For customers who require a hard copy or if you need a printed version for your records, you can print a quote easily:
@@ -51,6 +55,8 @@ For customers who require a hard copy or if you need a printed version for your 
 !!! Info
 
      Saving a copy of the quote in PDF format can help maintain records for future reference.
+
+---
 
 ## **Delete a Quote**
 

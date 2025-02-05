@@ -10,22 +10,22 @@ Creating a new purchase order is straightforward. Here’s how to do it:
 - Click the **+ New** button in the top right corner of the page.
 - Fill in the required details in the Create Purchase Order page.
 
-| Section        | Field             | Description                                                                                     |
-| -------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
-| Header Section | Purchase Order #  | A unique identifier assigned to the purchase order, which can be edited after creation.         |
-|                | Order Date        | The date on which the purchase order is created, serving as a reference for tracking.           |
-|                | Expected Delivery | Date The anticipated date when the ordered items are expected to arrive from the vendor.        |
-| Dropdowns      | Warehouse         | Select the warehouse where the items will be delivered.                                         |
-|                | Supplier          | Choose the supplier from whom the items will be ordered.                                        |
-| Items Table    | Item              | Select the item that is being ordered from the supplier.                                        |
-|                | Quantity          | Specify the number of units being ordered.                                                      |
-|                | Price             | This field auto-fills based on the selected item but can be adjusted if necessary.              |
-|                | Tax               | Input the relevant tax percentage or rate that applies to the order.                            |
-|                | Amount            | This field calculates the total amount based on the quantity, price, and tax.                   |
-| Footer Section | Supplier Notes    | Enter any specific instructions or additional information for the supplier regarding the order. |
-|                | Subtotal          | Displays the total cost before taxes and any adjustments are made.                              |
-|                | Tax               | Shows the total tax amount applied to the order.                                                |
-|                | Total             | Displays the grand total amount, including all applicable taxes.                                |
+| Section            | Field             | Description                                                                                     |
+| ------------------ | ----------------- | ----------------------------------------------------------------------------------------------- |
+| **Header Section** | Purchase Order #  | A unique identifier assigned to the purchase order, which can be edited after creation.         |
+|                    | Order Date        | The date on which the purchase order is created, serving as a reference for tracking.           |
+|                    | Expected Delivery | Date The anticipated date when the ordered items are expected to arrive from the vendor.        |
+| **Dropdowns**      | Warehouse         | Select the warehouse where the items will be delivered.                                         |
+|                    | Supplier          | Choose the supplier from whom the items will be ordered.                                        |
+| **Items Table**    | Item              | Select the item that is being ordered from the supplier.                                        |
+|                    | Quantity          | Specify the number of units being ordered.                                                      |
+|                    | Price             | This field auto-fills based on the selected item but can be adjusted if necessary.              |
+|                    | Tax               | Input the relevant tax percentage or rate that applies to the order.                            |
+|                    | Amount            | This field calculates the total amount based on the quantity, price, and tax.                   |
+| **Footer Section** | Supplier Notes    | Enter any specific instructions or additional information for the supplier regarding the order. |
+|                    | Subtotal          | Displays the total cost before taxes and any adjustments are made.                              |
+|                    | Tax               | Shows the total tax amount applied to the order.                                                |
+|                    | Total             | Displays the grand total amount, including all applicable taxes.                                |
 
 - Select the Warehouse and Supplier from the dropdown options.
 - Add items to the order, specify their quantities, and adjust prices or taxes as necessary.

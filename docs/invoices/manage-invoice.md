@@ -12,7 +12,10 @@ Quickly filter your invoices based on status, date, or customer to streamline yo
 
       Save frequently used filter settings to quickly access the invoices you need without reapplying filters each time.
 
-Filtering invoices helps you easily locate relevant records and improves efficiency in managing your financial documents.
+Filtering invoices helps you easily locate relevant records and improves efficiency in managing your financial
+documents.
+
+---
 
 ## **Refresh List**
 

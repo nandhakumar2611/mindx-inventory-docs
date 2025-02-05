@@ -1,4 +1,4 @@
-# **Other Actions in Sales Orders**
+# **Other Actions for Sales Orders**
 
 Managing sales orders effectively often requires performing additional actions, such as editing, sending, printing, or exporting. Mindx Inventory makes it simple to handle these tasks in just a few steps. Here’s how you can manage these actions:
 
@@ -21,6 +21,8 @@ By keeping your sales orders up-to-date, you ensure smooth communication and acc
 
     Keeping sales orders updated enhances customer satisfaction by ensuring that all parties are aware of any changes to their orders.
 
+---
+
 ## **Mail a Sales Order to a Customer**
 
 Need to send a sales order to your customer? Mindx Inventory makes it quick and easy to email sales orders directly.
@@ -35,6 +37,8 @@ Sending sales orders promptly ensures your customers stay informed and streamlin
 !!! example "Insight"
 
       Prompt communication with customers through emails helps build trust and improves overall customer experience.
+
+---
 
 ## **Download/Print a Sales Order**
 
@@ -51,6 +55,8 @@ Having a printed sales order ensures smooth delivery coordination and internal d
 
       Ensure your printer settings are correctly configured to avoid issues when printing sales orders.
 
+---
+
 ## Delete Sales Order
 
 You can delete the sales order you have sent to your customer. Here’s how:
@@ -60,9 +66,9 @@ You can delete the sales order you have sent to your customer. Here’s how:
 - Select the **checkbox** next to the sales orders you want to mark for deletion.
 - Click the **Delete** button at the right side of the page.
 
-??? Warning
+!!! Warning
 
-     *Please note that if you have already invoiced the sales order, you will not be able to delete it directly. To proceed with deleting the sales order, you must first delete the associated invoice.*
+     Please note that if you have already invoiced the sales order, you will not be able to delete it directly. To proceed with deleting the sales order, you must first delete the associated invoice.
 
 ---
 

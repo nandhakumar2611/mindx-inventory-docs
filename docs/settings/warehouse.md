@@ -15,6 +15,8 @@ To add a new warehouse to your organization:
 
       You can only have one primary warehouse at a time. Choose it based on your main operational requirements.
 
+---
+
 ## **Change Warehouse Status**
 
 **Designate a Primary Warehouse**
@@ -27,6 +29,8 @@ The primary warehouse acts as the default location for all transactions. To desi
 !!! Tip
 
       You can only have one primary warehouse at a time. Choose it based on your main operational requirements.
+
+---
 
 ## **Deactivate & Reactivate a Warehouse**
 
@@ -47,6 +51,8 @@ If a warehouse is temporarily not in use, you can deactivate it.
       You cannot deactivate the current primary warehouse without assigning another warehouse as
        primary.
 
+---
+
 ## **Edit Warehouse Details**
 
 To edit the details of an existing warehouse:
@@ -55,6 +61,8 @@ To edit the details of an existing warehouse:
 - Click the **Edit** button next to the warehouse of your choice.
 - Update the required fields and click **Save**.
 
+---
+
 ## **Delete a Warehouse**
 
 If a warehouse is no longer operational:
@@ -62,7 +70,7 @@ If a warehouse is no longer operational:
 - Go to **Settings** > **Warehouses**.
 - Select the warehouse by clicking the checkbox and then click the **Delete** button at the top.
 
-??? Warning
+!!! Warning
 
     - Data Loss: Deleting a warehouse permanently removes its details and any related information. Ensure you have backed up all necessary data before proceeding.
 

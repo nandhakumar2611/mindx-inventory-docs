@@ -57,6 +57,8 @@ Settings During Import
 
       The maximum file size for import is 1 MB.
 
+---
+
 ## **Inventory Tracking for Items**
 
 MindX Inventory allows you to track the stock levels of your items automatically.

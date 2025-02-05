@@ -14,6 +14,8 @@ If you need to make changes to a purchase order—for example, to update quantit
 
       Keeping your purchase orders up-to-date ensures accurate inventory management and smooth supplier communication.
 
+---
+
 ## **Download/Print a Purchase Order**
 
 For suppliers who require a hard copy or if you need a printed version for your records, printing a purchase order is straightforward:
@@ -27,6 +29,8 @@ For suppliers who require a hard copy or if you need a printed version for your 
 
       Having a printed copy of your purchase orders helps keep your records organized and provides a physical reference for your transactions.
 
+---
+
 ## **Mail the Purchase Order**
 
 Need to send a purchase order to your supplier? Mindx Inventory makes it quick and easy to email purchase orders directly.
@@ -36,6 +40,8 @@ Need to send a purchase order to your supplier? Mindx Inventory makes it quick a
 - On the Details page, click the **Email**.
 - Review the email details, make any adjustments if needed, and click **Send**.
   Sending purchase orders promptly ensures your suppliers stay informed and streamlines the procurement process!
+
+---
 
 ## **Delete Purchase Order**
 

@@ -18,6 +18,8 @@ Sorting your sales orders helps you quickly access relevant information, enhanci
 
      Effective filtering not only saves time but also improves your ability to respond to customer inquiries promptly, enhancing overall service quality.
 
+---
+
 ## **Refresh List for Sales Orders**
 
 Keep your sales order list updated to ensure you have the latest information. Here’s how you can refresh the list:

@@ -48,6 +48,8 @@ Follow these steps to create a sales order:
 
 Creating a sales order efficiently organizes your sales process and helps manage customer relationships effectively.
 
+---
+
 ## **Converting a Quote to a Sales Order**
 
 Mindx Inventory allows you to convert an Accepted Quote into a Sales Order. This ensures that customer requirements and agreed prices are directly transferred to the sales order.
@@ -67,6 +69,8 @@ Steps:
 !!! example "Insight"
 
     Streamlining the conversion process from quotes to sales orders can significantly enhance operational efficiency and minimize manual data entry errors.
+
+---
 
 ## **View Sales Orders**
 

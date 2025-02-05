@@ -1,5 +1,7 @@
 # **Manage Quotes**
 
+A quote is a formal document sent to a customer, outlining the items or services to be delivered, their quantities, pricing, and additional terms. In MindX Inventory, the Quotes feature allows you to create, filter, and refresh quotes to keep your sales process organized and efficient.
+
 !!! Insight
 
      Regularly managing and refreshing your quotes can enhance your responsiveness to customer inquiries and improve overall customer satisfaction.
@@ -16,6 +18,8 @@ You can sort quotes based on specific criteria to find the information you need 
 !!! Tip
 
      Utilize multiple filter criteria to narrow down your search results effectively, especially if you have a large number of quotes.
+
+---
 
 ## **Refresh List for Quotes**
 

@@ -12,6 +12,8 @@ If you need to update the details of an invoice, follow these steps:
 
 Updating invoices ensures accurate records and maintains clear communication with your customers.
 
+---
+
 ## **Send an Invoice to a Customer**
 
 If an invoice is saved as a draft, you can send it manually:
@@ -27,6 +29,8 @@ If an invoice is saved as a draft, you can send it manually:
 
 Sending invoices promptly ensures a smooth transaction process and timely payments.
 
+---
+
 ## **Download an Invoice as PDF**
 
 To save a digital copy of an invoice, follow these steps:
@@ -38,6 +42,8 @@ To save a digital copy of an invoice, follow these steps:
 
 Having invoices saved as PDFs allows for easy sharing and secure digital storage.
 
+---
+
 ## **Print an Invoice**
 
 For physical records or to provide a hard copy, you can print invoices directly:
@@ -48,6 +54,8 @@ For physical records or to provide a hard copy, you can print invoices directly:
 - Review the preview and click **Print** to finalize.
 
 Printing invoices helps maintain organized records and offers a tangible reference for financial transactions.
+
+---
 
 ## **Delete an Invoice**
 

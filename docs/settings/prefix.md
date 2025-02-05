@@ -20,6 +20,8 @@ This table allows users to review their prefix settings at a glance, ensuring st
 
       Consistent prefixes enhance document organization and improve communication within teams. By clearly indicating document types, prefixes facilitate quick identification and retrieval of records, reducing the potential for errors in processing.
 
+---
+
 ## **Features**
 
 ### **Edit Prefixes**

@@ -16,6 +16,8 @@ In MindX Inventory, you can add customers or suppliers you deal with in your bus
 
       Consider categorizing your customers based on purchase frequency or order size, as this can help in tailoring your marketing strategies and improving customer service.
 
+---
+
 ### **To create a new supplier:**
 
 - Navigate to Purchases on the left sidebar and select Suppliers.
@@ -23,6 +25,8 @@ In MindX Inventory, you can add customers or suppliers you deal with in your bus
 - Enter the supplier’s details, such as name, company name, and contact information.
 - Provide other details such as billing and shipping addresses through the appropriate tabs.
 - After completing all fields, click **Save**.
+
+---
 
 ## **Import Customers/Suppliers**
 

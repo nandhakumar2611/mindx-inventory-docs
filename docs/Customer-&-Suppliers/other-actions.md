@@ -14,6 +14,8 @@ To modify the details of any customer or supplier:
 !!! info
 When editing customer or supplier information, ensure that all changes are accurate to maintain reliable records.
 
+---
+
 ## **Filter Customers/Suppliers**
 
 You can sort customers or suppliers based on specific criteria:
@@ -21,6 +23,8 @@ You can sort customers or suppliers based on specific criteria:
 - Go to **Sales** > **Customers** (for customers) or **Purchases** > **Suppliers** (for suppliers).
 - Click the **Filter** option at the top of the page.
 - Select the desired filter to view the results.
+
+---
 
 ## **Delete Customer/Supplier**
 

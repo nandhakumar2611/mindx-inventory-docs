@@ -6,17 +6,19 @@ An invoice is a financial document that represents the supply of goods or servic
 
 The workflow of an invoice in MindX Inventory is as follows:
 
-**Create an Invoice**: Initiate the invoicing process by entering the required details.
+- **Create an Invoice**: Initiate the invoicing process by entering the required details.
 
-**Save or Send**: You can either save the invoice as a draft for later editing or send it directly to your customer’s email.
+- **Save or Send**: You can either save the invoice as a draft for later editing or send it directly to your customer’s email.
 
-**Invoice Status**: If the invoice exceeds its due date, its status will automatically update to "Overdue."
+- **Invoice Status**: If the invoice exceeds its due date, its status will automatically update to "Overdue."
 
-**Record Payment**: Upon receiving payment from your customer, you can record this payment against the invoice.
+- **Record Payment**: Upon receiving payment from your customer, you can record this payment against the invoice.
 
-**Update Status**: After recording the payment, the invoice status changes to "Paid," reflecting this in various sales reports.
+- **Update Status**: After recording the payment, the invoice status changes to "Paid," reflecting this in various sales reports.
 
-**View Payments**: All recorded payments for your customers can be viewed in the Payments Recorded module under Sales.
+- **View Payments**: All recorded payments for your customers can be viewed in the Payments Recorded module under Sales.
+
+---
 
 ## **Create Invoice**
 
@@ -39,6 +41,8 @@ Steps to Create an Invoice:
 
 This process will help you accurately create invoices for your customers.
 
+---
+
 ## **Creating an Invoice From a Sales Order**
 
 - Navigate to **Sales** in the left sidebar and select **Sales Orders**.
@@ -49,6 +53,8 @@ This process will help you accurately create invoices for your customers.
 - Click **Save** to complete the invoice creation process.
 
 This streamlined process ensures quick and accurate invoice generation directly from sales orders.
+
+---
 
 ## **View Invoices**
 

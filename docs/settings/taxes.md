@@ -10,6 +10,8 @@ The taxes you create are displayed in a clear tabular format, making it easy to 
 - **Tax Percentage**: Shows the percentage associated with each tax, allowing for easy reference and validation.
 - **Actions**: Provides options to edit the tax details, ensuring you can efficiently manage your tax configurations.
 
+---
+
 ## **Features**
 
 ### **Adding New Taxes**
@@ -30,7 +32,9 @@ To add a new tax:
 
       Make sure the tax percentage entered is accurate to avoid discrepancies in financial calculations.
 
-### **Editing Taxes**
+---
+
+## **Editing Taxes**
 
 To modify an existing tax:
 

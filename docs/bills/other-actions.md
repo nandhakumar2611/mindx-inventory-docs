@@ -13,7 +13,10 @@ If you need to update the details of a bill, the process is simple:
 Keeping your bills accurate ensures reliable financial records and smooth transactions with your vendors.
 
 !!! Tip
-Keeping your bills accurate ensures reliable financial records and smooth transactions with your vendors. Regularly reviewing bills can help catch any discrepancies early.
+
+     Keeping your bills accurate ensures reliable financial records and smooth transactions with your vendors. Regularly reviewing bills can help catch any discrepancies early.
+
+---
 
 ## **Email the Bill**
 
@@ -26,6 +29,8 @@ Need to send a bill to your vendor? Mindx Inventory makes it easy to email bills
 - On the Details page, click **Email**.
 
 - Review the email details, make adjustments if needed, and click Send.
+
+---
 
 ## **Download a Bill as PDF**
 
@@ -40,6 +45,8 @@ To maintain a digital copy of your bills, you can easily download them as PDFs:
 
       Having your bills saved as PDFs allows for easy sharing and secure storage, making it convenient for future reference.
 
+---
+
 ## **Print a Bill**
 
 For physical records or to provide a hard copy of a bill, you can print it directly from MindX Inventory:
@@ -49,6 +56,8 @@ For physical records or to provide a hard copy of a bill, you can print it direc
 - On the detail page ,Click on the **PDF/print**,Click on the Print option.
 - Review the Preview and click Print to finalize.
   Printing bills helps keep your documentation organized and provides a tangible reference for your financial transactions.
+
+---
 
 ## **Delete a Bill**
 

@@ -6,7 +6,7 @@ The Users page allows admins to manage users effectively. Each user is displayed
 - **Email**: Email address used for logging in.
 - **Phone**: Contact number associated with the user.
 
-### **Adding a New User**
+## **Adding a New User**
 
 To add a new user to your Mindx Inventory organization:
 
@@ -29,7 +29,9 @@ To add a new user to your Mindx Inventory organization:
 
      Users must complete the activation process within 24 hours of receiving the invitation email, or the link will expire.
 
-### **Activating a Newly Added User**
+---
+
+## **Activating a Newly Added User**
 
 When an admin adds a new user, an activation email is sent. The user must follow these steps:
 
@@ -50,14 +52,18 @@ When an admin adds a new user, an activation email is sent. The user must follow
 Upon completing these steps, the user’s status will automatically change to Active.
 Editing User Details
 
-### **To edit an existing user's details:**
+---
+
+## **To edit an existing user's details:**
 
 - Locate the user in the table.
 - Click **Edit** in the corresponding row.
 - Modify the required fields (name, email, phone).
 - Click **Save** to update the information.
 
-### **Deleting a User**
+---
+
+## **Deleting a User**
 
 If a user no longer requires access to your organization:
 

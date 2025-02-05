@@ -2,12 +2,13 @@
 
 ## **Status Description**
 
-Draft Purchase orders when created, will be in the Draft status.
-Open Purchase orders once sent to the vendor, will be in the Open status.
-Closed Purchase order once accepted by a vendor, can be converted to a bill and the status will be Closed.
-Cancelled If the vendor rejects your purchase order, the order can be cancelled and the status will be Cancelled.
-Partially Billed When the purchase order is billed only for some items, then the status will be Partially Billed.
-Billed Once the purchase order is converted to a bill, the status will be Billed.
+- **Draft** Purchase orders when created, will be in the Draft status.
+- **Open** Purchase orders once sent to the vendor, will be in the Open status.
+- **Closed** Purchase order once accepted by a vendor, can be converted to a bill and the status will be Closed.
+- **Cancelled** If the vendor rejects your purchase order, the order can be cancelled and the status will be Cancelled.
+- **Billed** Once the purchase order is converted to a bill, the status will be Billed.
+
+---
 
 ## **Filter Purchase Orders**
 
@@ -22,6 +23,8 @@ Filtering your purchase orders allows you to find relevant information swiftly, 
 !!! Tip
 
       Filtering your purchase orders allows you to find relevant information swiftly, improving your overall procurement management.
+
+---
 
 ## **Refresh Purchase Order List**
 

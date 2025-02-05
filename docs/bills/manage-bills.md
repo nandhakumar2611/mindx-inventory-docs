@@ -6,17 +6,19 @@ The bills you record for your suppliers in MindX Inventory can be filtered, sort
 
 A bill in MindX Inventory can have any of the following statuses:
 
-| Status                                                | Description                                  |
-| ----------------------------------------------------- | -------------------------------------------- |
-| Draft                                                 | The bill is created but not yet finalized.   |
-| Open                                                  | The bill is active and ready for processing. |
-| Overdue The payment due date for the bill has passed. |
-| Unpaid                                                | No payments have been recorded for the bill. |
-| Paid                                                  | The bill is fully paid.                      |
+| Status      | Description                                   |
+| ----------- | --------------------------------------------- |
+| **Draft**   | The bill is created but not yet finalized.    |
+| **Open**    | The bill is active and ready for processing.  |
+| **Overdue** | The payment due date for the bill has passed. |
+| **Unpaid**  | No payments have been recorded for the bill.  |
+| **Paid**    | The bill is fully paid.                       |
 
 !!! example "Insight"
 
      Regularly monitoring the status of bills helps ensure timely payments and effective cash flow management.
+
+---
 
 ## **Filter Bills**
 
@@ -26,6 +28,8 @@ Easily filter your bills based on their status or other criteria.
 - Click the **Filter** option at the top of the page.
 - Choose the specific criteria, such as status, date range, or supplier, to filter the bills.
   Filtering bills allows you to quickly access relevant records and streamline your workflow.
+
+---
 
 ## **Refresh List**
 

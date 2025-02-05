@@ -22,6 +22,8 @@ Click **Save** to apply the changes.
 
      Any changes made to item details will not affect previous transactions.
 
+---
+
 ## **Delete Item**
 
 If you no longer need an item in your organization, you can delete it directly from the Items module.
@@ -36,6 +38,8 @@ Steps to Delete an Item:
 !!! Note
 
       Ensure that the item is not actively being used in transactions. If the item is still associated with sales or purchase records, you may need to update or archive those records before proceeding with deletion.
+
+---
 
 ## **Export Items**
 

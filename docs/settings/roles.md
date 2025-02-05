@@ -9,6 +9,8 @@ A role determines the level of accessibility a user has in the organization. In 
 - Go to the Settings section in the left-side menu.
 - Select Roles under the Settings menu.
 
+---
+
 ## **Custom Roles**
 
 In addition to standard roles like Admin and User, MindX Inventory allows you to create custom roles with different levels of access to suit your requirements.

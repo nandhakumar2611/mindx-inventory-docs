@@ -35,14 +35,14 @@ nav:
       - Spage A: intro/spagea.md
       - Spage B: intro/spageb.md
   - Getting Started:
-      - Access: getting-started/access.md
-      - Log In: getting-started/log-in.md
+      - Access MindX Inventory: getting-started/access.md
+      - Log In to MindX Inventory: getting-started/log-in.md
   - Home:
       - Overview: home/overview.md
       - Dashboard Insights: home/dashboard-insights.md
-  - Personalise: []
+  #- Personalise: []
   - Settings:
-      - Overview: settings/overview.md
+      - Settings Overview: settings/overview.md
       - Warehouse: settings/warehouse.md
       - Taxes: settings/taxes.md
       - Prefix: settings/prefix.md
@@ -50,44 +50,42 @@ nav:
       - Roles: settings/roles.md
       - Pricing: settings/pricing.md
   - Customer & Suppliers:
-      - Overview: customer-&-suppliers/overview.md
+      - Customer & Supplier Overview: customer-&-suppliers/overview.md
       - Introduction- Customer & Supplier: customer-&-suppliers/introduction.md
-      - Other Actions: customer-&-suppliers/other-actions.md
+      - Other Actions for Customer & Supplier: customer-&-suppliers/other-actions.md
   - Quotes:
-      - Overview: quotes/overview.md
+      - Quotes Overview: quotes/overview.md
       - Introduction - Quotes: quotes/introduction-quotes.md
       - Manage Quotes: quotes/manage-quotes.md
       - Convert to Invoice: quotes/convert-to-invoice.md
       - Convert to Sales Order: quotes/convert-to-so.md
       - Other Actions for Quotes: quotes/other-actions.md
   - Items:
-      - Overview: items/overview.md
-      - Introduction - Item: items/introduction-item.md
-      - Other Actions for Item: items/other-actions.md
+      - Items Overview: items/overview.md
+      - Introduction - Items: items/introduction-item.md
+      - Other Actions for Items: items/other-actions.md
   - Sales Order:
-      - Overview: salesorders/overview.md
-      - Introduction - Sales Order: salesorders/introduction-so.md
-      - Manage Sales Order: salesorders/manage-so.md
+      - Sales Order Overview: salesorders/overview.md
+      - Introduction - Sales Orders: salesorders/introduction-so.md
+      - Manage Sales Orders: salesorders/manage-so.md
       - Convert to Invoice: salesorders/convert-to-invoice.md
       - Convert to Purchase Order: salesorders/convert-to-po.md
-      - Other Actions for Sales Order: salesorders/other-actions.md
-  - Invoice:
-      - Overview: invoice/overview.md
-      - Introduction - Invoice: invoice/introduction-invoice.md
-      - Manage Invoice: invoice/manage-invoice.md
-      - Other Actions for Invoice: invoice/other-actions.md
+      - Other Actions for Sales Orders: salesorders/other-actions.md
+  - Invoices:
+      - Invoice Overview: invoices/overview.md
+      - Introduction - Invoices: invoices/introduction-invoice.md
+      - Manage Invoices: invoices/manage-invoice.md
+      - Other Actions for Invoices: invoices/other-actions.md
   - Purchase Order:
-      - Overview: purchaseorder/overview.md
-      - Basic Function of Purchase Order: purchaseorder/basic-function-of-po.md
-      - Functions in Purchase Order: purchaseorder/functions-in-po.md
-      - Manage Purchase Order: purchaseorder/manage-po.md
-      - Other Actions for Purchase Order: purchaseorder/other-actions.md
+      - Purchase Order Overview: purchaseorder/overview.md
+      - Basic Function of Purchase Orders: purchaseorder/basic-function-of-po.md
+      - Functions in Purchase Orders: purchaseorder/functions-in-po.md
+      - Manage Purchase Orders: purchaseorder/manage-po.md
+      - Other Actions for Purchase Orders: purchaseorder/other-actions.md
   - Bills:
-      - Overview: bills/overview.md
-      - Function of Bills: bills/function-of-bills.md
+      - Bills Overview: bills/overview.md
+      - Function in Bills: bills/function-in-bills.md
       - Manage Bills: bills/manage-bills.md
-      - Other Actions: bills/other-actions.md
-  - Import & Export Data:
-      - Import & Export: import-export-data.md
+      - Other Actions for Bills: bills/other-actions.md
   - Ask AI Copilot:
       - Overview: ask-ai-copilot/ai-copilot-overview.md
