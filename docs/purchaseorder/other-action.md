@@ -51,3 +51,13 @@ If you need to remove a purchase order, follow these steps to delete it:
      Removing outdated purchase orders contributes to maintaining an organized and current record-keeping system. Be cautious, as this action cannot be undone.
 
 It may be helpful to archive or keep records of important purchase orders before deletion for future reference.
+
+---
+
+**Related >**
+
+- [Basic Function in Purchase Orders](basic-function-of-po.md)
+- [Function in Purchase Orders](functions-in-po.md)
+- [Manage Purchase Orders](manage-po.md)
+
+---

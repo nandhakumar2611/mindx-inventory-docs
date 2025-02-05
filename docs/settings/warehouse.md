@@ -67,3 +67,20 @@ If a warehouse is no longer operational:
     - Data Loss: Deleting a warehouse permanently removes its details and any related information. Ensure you have backed up all necessary data before proceeding.
 
     - Transaction Impact: Deactivating a warehouse can affect any pending transactions. Confirm that no transactions are in progress before changing the warehouse status.
+
+---
+
+**Next >**
+
+- [Taxes](taxes.md)
+
+---
+
+**Related >**
+
+- [Prefix](prefix.md)
+- [User](user.md)
+- [Roles](roles.md)
+- [Pricing](pricing.md)
+
+---

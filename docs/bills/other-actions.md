@@ -64,3 +64,12 @@ If you find a bill is no longer necessary, you can remove it easily:
        Always ensure that you have accurate records before deleting a bill. Once a bill is deleted, all associated data will be permanently lost and cannot be recovered.
 
 Removing unnecessary bills keeps your records tidy and enhances your overall management efficiency.
+
+---
+
+**Related >**
+
+- [Functions in Bills ](function-in-bills.md)
+- [Manage Bills](manage-bills.md)
+
+---

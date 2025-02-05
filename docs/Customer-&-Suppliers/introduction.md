@@ -1,4 +1,4 @@
-# **Introduction Customers & Suppilers**
+# **Introduction- Customers & Suppilers**
 
 In MindX Inventory, you can add customers or suppliers you deal with in your business. To create sales transactions like sales orders or invoices, you will need to add customers. For creating purchase transactions like purchase orders, you’ll need to add suppliers.
 
@@ -27,3 +27,11 @@ In MindX Inventory, you can add customers or suppliers you deal with in your bus
 ## **Import Customers/Suppliers**
 
 If you need to add multiple customers or suppliers at once, you can import them using a CSV or Excel file. This option is available on the Customers and Suppliers pages.
+
+---
+
+**Next >**
+
+- [Other Action for Customer & Supplier](other-actions.md)
+
+---

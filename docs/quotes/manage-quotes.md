@@ -29,3 +29,15 @@ Keep your quote list updated to ensure you have the latest information. Here’s
 !!! Info
 
       It’s advisable to refresh your list periodically, especially after making changes or updates to quotes, to avoid working with outdated information.
+
+**Next >**
+
+- [Convert to Invoice](convert-to-invoice.md)
+
+---
+
+**Related >**
+
+- [Introduction- Quotes](introduction-quotes.md)
+- [Convert to Sales Order](convert-to-so.md)
+- [Other Action for Quotes](other-actions.md)

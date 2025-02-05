@@ -45,3 +45,19 @@ If you’ve already created purchase orders, you can easily view them. Here’s 
 - Select the purchase order you wish to view.
 
 This allows you to keep track of your orders and manage your inventory effectively.
+
+---
+
+**Next >**
+
+- [Function in Purchase Orders](functions-in-po.md)
+
+---
+
+**Related >**
+
+- [Function in Purchase Orders](functions-in-po.md)
+- [Manage Purchase Orders](manage-po.md)
+- [Other Action for Purchase Orders](other-actions.md)
+
+---

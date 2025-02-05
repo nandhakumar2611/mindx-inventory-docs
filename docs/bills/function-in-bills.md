@@ -43,3 +43,17 @@ If you’ve already created bills, you can easily view them. Here’s how:
 !!! abstract "Prerequisite"
 
       Ensure you have the necessary permissions to create or edit bills in MindX Inventory.
+
+---
+
+**Next >**
+
+- [Manage Bills](manage-bills.md)
+
+---
+
+**Related >**
+
+- [Other Action for Bills](other-actions.md)
+
+---

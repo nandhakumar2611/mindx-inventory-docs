@@ -67,3 +67,20 @@ If a user no longer requires access to your organization:
 
 - Select the **Checkbox** next to the user from the list.
 - Click on **Delete** button presentent in top right corner .
+
+---
+
+**Next >**
+
+- [Roles](roles.md)
+
+---
+
+**Related >**
+
+- [Warehouse](warehouse.md)
+- [Taxes](taxes.md)
+- [Prefix](prefix.md)
+- [Pricing](pricing.md)
+
+---

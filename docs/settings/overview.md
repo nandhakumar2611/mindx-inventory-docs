@@ -56,4 +56,6 @@ Pricing plans for your inventory management services include:
 
 MindX Inventory’s Settings section offers a simple, centralized way to streamline operations, enhance teamwork, and maintain control over inventory processes. These settings adapt to your business, supporting growth and efficiency.
 
-[next](../settings/warehouse.md){ .md-button }
+---
+
+[next :materila/](../settings/warehouse.md){ .md-button }

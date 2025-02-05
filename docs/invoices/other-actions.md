@@ -63,3 +63,12 @@ If an invoice is no longer required, you can remove it easily:
       Ensure any recorded payments linked to the invoice are deleted before proceeding. Deleted invoices cannot be recovered.
 
 Deleting unnecessary invoices keeps your records organized and free of clutter.
+
+---
+
+**Related >**
+
+- [Introduction- Invoices](introduction-invoice.md)
+- [Manage Invoices](manage-invoice.md)
+
+---

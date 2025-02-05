@@ -36,7 +36,6 @@ Sending sales orders promptly ensures your customers stay informed and streamlin
 
       Prompt communication with customers through emails helps build trust and improves overall customer experience.
 
-
 ## **Download/Print a Sales Order**
 
 For customers who need a hard copy or if you require a printed version for your records, printing a sales order is simple:
@@ -65,4 +64,11 @@ You can delete the sales order you have sent to your customer. Here’s how:
 
      *Please note that if you have already invoiced the sales order, you will not be able to delete it directly. To proceed with deleting the sales order, you must first delete the associated invoice.*
 
+---
 
+**Related >**
+
+- [Introduction- Sales Order](introduction-so.md)
+- [Manage Sales Order](manage-so.md)
+- [Convert Sales Order to Invoice](convert-to-invoice.md)
+- [Convert Sales Order to Purchase Order](convert-to-po.md)

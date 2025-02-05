@@ -31,3 +31,17 @@ Refreshing your sales order list ensures you are always viewing the most current
 !!! Note
 
      If you experience issues with loading or refreshing the list, try clearing your browser cache or checking your internet connection.
+
+---
+
+**Next >**
+
+- [Convert to Invoice](convert-to-invoice.md)
+
+---
+
+**Related >**
+
+- [Introduction- Sales Order](introduction-so.md)
+- [Convert to Purchase Order](convert-to-po.md)
+- [Other Action for Sales Order](other-actions.md)

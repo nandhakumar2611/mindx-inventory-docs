@@ -1,4 +1,4 @@
-# **Other Action for Item**
+# **Other Action for Items**
 
 You can edit, clone, mark as inactive, delete, or export items in MindX Inventory for seamless inventory management.
 
@@ -55,3 +55,11 @@ Steps to Export Items:
   Or click + Add New to create a custom template.
 - Select the export file format (CSV, XLS, or XLSX) under Export As.
 - Click Export.
+
+---
+
+**Related >**
+
+- [introduction- Item](introduction-item.md)
+
+---

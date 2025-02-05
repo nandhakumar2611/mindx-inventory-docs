@@ -56,3 +56,17 @@ If you’ve already created quotes, you can easily view them. Here’s how:
      Regularly reviewing your quotes can help you identify trends in customer preferences and improve your pricing strategies.
 
 This enables you to track your proposals, manage customer expectations, and streamline the sales process effectively.
+
+---
+
+**Next >**
+
+- [Manage Quotes](manage-quotes.md)
+
+---
+
+**Related >**
+
+- [Convert to Invoice](convert-to-invoice.md)
+- [Convert to Sales Order](convert-to-so.md)
+- [Other Action for Quotes](other-actions.md)

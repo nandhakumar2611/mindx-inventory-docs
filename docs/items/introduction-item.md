@@ -66,3 +66,11 @@ For example:
 - If the opening stock for Item A is 100, and you sell 70 units, the stock reduces to 30.
 - If you purchase an additional 100 units, the stock increases to 130.
   This system ensures real-time inventory tracking based on your sales and purchase transactions.
+
+---
+
+**Next >**
+
+- [Other Action for Items](other-actions.md)
+
+---

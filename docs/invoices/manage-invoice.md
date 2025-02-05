@@ -27,3 +27,15 @@ Ensure your invoice list is always up to date by refreshing it:
      If recent changes are not visible after refreshing, ensure your internet connection is stable or try reloading the page.
 
 Refreshing your invoice list ensures that you have access to the most current data for effective and accurate management.
+
+---
+
+**Next >**
+
+- [Other Action for Invoices](other-actions.md)
+
+---
+
+**Related >**
+
+- [Introduction- Invoices](introduction-invoice.md)

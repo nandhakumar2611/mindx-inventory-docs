@@ -41,3 +41,19 @@ Update the necessary details in the required fields :
 
 This feature allows you to maintain flexibility and adapt prefix settings as your business requirements evolve.
 
+---
+
+**Next >**
+
+- [User](user.md)
+
+---
+
+**Related >**
+
+- [Warehouse](warehouse.md)
+- [Taxes](taxes.md)
+- [Roles](roles.md)
+- [Pricing](pricing.md)
+
+---

@@ -35,3 +35,18 @@ To ensure your purchase order list is current and accurate, follow these steps t
 Keeping your purchase order list updated helps prevent errors and ensures smooth order processing.
 
 Refreshing the list ensures that you have the most up-to-date information, helping you effectively manage your purchase orders.
+
+---
+
+**Next >**
+
+- [Other Action for Purchase Orders](other-actions.md)
+
+---
+
+**Related >**
+
+- [Basic Function in Purchase Orders](basic-function-of-po.md)
+- [Function in Purchase Orders](functions-in-po.md)
+
+---

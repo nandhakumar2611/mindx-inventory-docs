@@ -15,9 +15,22 @@ Simplify your billing process in MindX Inventory by converting accepted quotes i
 
 - Review and update other details as necessary, then click **Save** as Draft to keep it as a draft or Save and Send to send the invoice directly to the customer.
 
-
 !!! Info
 
        Automatic Update: Once the invoice is generated, the corresponding quote status will automatically change to "Invoiced," facilitating easy tracking and record management.
 
 After saving or sending the invoice, the quote will automatically be marked as Invoiced, ensuring a seamless tracking process.
+
+---
+
+**Next >**
+
+- [Convert to Sales Order](convert-to-so.md)
+
+---
+
+**Related >**
+
+- [Introduction- Quotes](introduction-quotes.md)
+- [Manage Quotes](manage-quotes.md)
+- [Other Action for Quotes](other-actions.md)

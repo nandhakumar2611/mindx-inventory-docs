@@ -35,3 +35,17 @@ Keep your bill list updated to ensure you have the latest information. Here’s 
 - Open the **three-dot menu** in the top right corner of the page.
 - Click **Refresh List**.
   Refreshing your bill list ensures you are always viewing the most current data for effective management.
+
+---
+
+**Next >**
+
+- [Other Action for Bills](other-actions.md)
+
+---
+
+**Related >**
+
+- [Functions in Bills ](function-in-bills.md)
+
+---

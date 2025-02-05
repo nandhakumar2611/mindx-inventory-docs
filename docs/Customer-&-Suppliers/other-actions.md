@@ -1,4 +1,4 @@
-# **Other Actions for Customers/Suppliers**
+# **Other Actions for Customers & Suppliers**
 
 In MindX Inventory, various actions can be performed within the Customers/Suppliers module to efficiently manage your data. Below are the actions available:
 
@@ -49,3 +49,11 @@ If you need to remove a supplier, follow these steps to delete them:
       Deleting unnecessary suppliers ensures your supplier list remains relevant and manageable. However, ensure that there are no outstanding transactions linked to the supplier before deletion, as this action is irreversible.
 
 Deleting unnecessary suppliers ensures your supplier list remains relevant and manageable.
+
+---
+
+**Related >**
+
+- [introduction- Customer & Supplier](introduction.md)
+
+---

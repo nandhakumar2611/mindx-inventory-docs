@@ -17,3 +17,18 @@ To convert a Purchase Order to a Bill:
 !!! info
 
      Once a purchase order is converted to a bill, it cannot be reversed. Ensure all details are correct before proceeding.
+
+---
+
+**Next >**
+
+- [Manage Purchase Orders](manage-po.md)
+
+---
+
+**Related >**
+
+- [Basic Function in Purchase Orders](basic-function-of-po.md)
+- [Other Action for Purchase Orders](other-actions.md)
+
+---

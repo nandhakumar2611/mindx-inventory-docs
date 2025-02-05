@@ -1,4 +1,4 @@
-# **Other Action in Quotes**
+# **Other Action for Quotes**
 
 Quotes are an essential part of your sales process, allowing you to provide detailed pricing information to customers. With Mindx Inventory, you can easily create, edit, share, and manage your quotes to ensure a seamless workflow. Here’s how you can manage quotes effectively:
 
@@ -76,3 +76,14 @@ If you need to remove a quote from the system, follow these steps. Keep in mind 
 Managing quotes in Mindx Inventory allows you to handle every aspect of the quoting process with ease. By following these steps, you can ensure your quotes are always accurate, up-to-date, and shared with customers efficiently.
 
 Whether you're editing, emailing, printing, or deleting, Mindx Inventory offers the tools needed to streamline your quoting process and keep your sales organized.
+
+---
+
+**Related >**
+
+- [Introduction- Quotes](introduction-quotes.md)
+- [Manage Quotes](manage-quotes.md)
+- [Convert to Invoice](convert-to-invoice.md)
+- [Convert to Sales Order](convert-to-so.md)
+
+---

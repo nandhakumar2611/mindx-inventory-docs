@@ -11,3 +11,17 @@ After you’ve created a sales order and sent the items to your customers, you m
 Once the sales order is invoiced, its status will automatically change to Closed, indicating that the order has been completed.
 
 This feature streamlines your workflow, making it easy to transition from sales orders to invoicing without missing a beat!
+
+---
+
+**Next >**
+
+- [Convert Sales Order to Purchase Order](convert-to-po.md)
+
+---
+
+**Related >**
+
+- [Introduction- Sales Order](introduction-so.md)
+- [Manage Sales Order](manage-so.md)
+- [Other Action for Sales Order](other-actions.md)

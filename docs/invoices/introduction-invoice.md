@@ -60,3 +60,17 @@ If you’ve already created invoices, you can easily view them. Here’s how:
   Regularly reviewing your invoices allows you to identify any overdue payments and take proactive steps to follow up with customers, improving your cash flow management.
 
 This helps you keep track of your sales, manage customer payments, and maintain accurate financial records.
+
+---
+
+**Next >**
+
+- [Manage Invoice](manage-invoice.md)
+
+---
+
+**Related >**
+
+- [Other Action for Invoices](other-actions.md)
+
+---

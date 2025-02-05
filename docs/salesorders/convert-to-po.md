@@ -17,3 +17,17 @@ This feature helps streamline your inventory management process, ensuring that y
 !!! Note
 
      Once a sales order is converted into a purchase order, any changes to the purchase order will not affect the original sales order.
+
+---
+
+**Next >**
+
+- [Other Action for Sales Order](other-actions.md)
+
+---
+
+**Related >**
+
+- [Introduction- Sales Order](introduction-so.md)
+- [Manage Sales Order](manage-so.md)
+- [Convert Sales Order to Invoice](convert-to-invoice.md)

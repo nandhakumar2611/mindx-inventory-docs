@@ -64,7 +64,6 @@ Steps:
 
 - Save the sales order as a draft or send it to your customer.
 
-
 !!! example "Insight"
 
     Streamlining the conversion process from quotes to sales orders can significantly enhance operational efficiency and minimize manual data entry errors.
@@ -81,3 +80,19 @@ This enables you to track your sales, monitor customer orders, and manage your i
 !!! Note
 
      Consider implementing a systematic naming or numbering convention for sales orders to enhance organization and retrieval.
+
+---
+
+**Next >**
+
+- [Manage Sales Order](manage-so.md)
+
+---
+
+**Related >**
+
+- [Convert Sales Order to Invoice](convert-to-invoice.md)
+- [Convert Sales Order to Purchase Order](convert-to-po.md)
+- [Other Action for Sales Order](other-actions.md)
+
+---

@@ -13,3 +13,17 @@ Easily convert accepted quotes into sales orders in MindX Inventory to streamlin
      Conversion Restrictions: Only accepted quotes can be converted into sales orders. Ensure the quote status is marked as "Accepted" before attempting to convert.
 
 Once converted, you can either send the sales order to the customer or mark it as confirmed if you’ve received confirmation via other means.
+
+---
+
+**Next >**
+
+- [Other Action for Quotes](other-actions.md)
+
+---
+
+**Related >**
+
+- [Introduction- Quotes](introduction-quotes.md)
+- [Manage Quotes](manage-quotes.md)
+- [Convert to Invoice](convert-to-invoice.md)

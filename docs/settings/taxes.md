@@ -43,3 +43,20 @@ To modify an existing tax:
   This feature enables flexible management of your tax settings as regulations change.
 
 For user convenience, pagination is available at the bottom of the table, allowing for easy navigation through multiple entries if your tax settings include several taxes. This organization enhances usability and ensures you can quickly locate the information you need.
+
+---
+
+**Next >**
+
+- [Prefix](prefix.md)
+
+---
+
+**Related >**
+
+- [Warehouse](warehouse.md)
+- [User](user.md)
+- [Roles](roles.md)
+- [Pricing](pricing.md)
+
+---

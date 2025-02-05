@@ -24,3 +24,18 @@ In addition to standard roles like Admin and User, MindX Inventory allows you to
 !!! Warnings
 
     Be cautious when assigning access levels to custom roles; providing excessive access may lead to unauthorized actions or data exposure.
+
+---
+
+**Next >**
+
+- [Pricing](pricing.md)
+
+---
+
+**Related >**
+
+- [Warehouse](warehouse.md)
+- [Taxes](taxes.md)
+- [Prefix](prefix.md)
+- [User](user.md)
