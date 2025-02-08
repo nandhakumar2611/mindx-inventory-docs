@@ -32,8 +32,8 @@ markdown_extensions:
 
 nav:
   - Introduction:
-      - Spage A: intro/spagea.md
-      - Spage B: intro/spageb.md
+      - Mindx Inventory Features: intro/features.md
+      - Mindx Inventory Advanced Features: intro/advanced-features.md
   - Getting Started:
       - Access MindX Inventory: getting-started/access.md
       - Log In to MindX Inventory: getting-started/log-in.md
@@ -53,6 +53,7 @@ nav:
       - Customer & Supplier Overview: customer-&-suppliers/overview.md
       - Introduction- Customer & Supplier: customer-&-suppliers/introduction.md
       - Other Actions for Customer & Supplier: customer-&-suppliers/other-actions.md
+
   - Quotes:
       - Quotes Overview: quotes/overview.md
       - Introduction - Quotes: quotes/introduction-quotes.md

@@ -12,7 +12,8 @@ To modify the details of any customer or supplier:
 - Click **Save** to update the details.
 
 !!! info
-When editing customer or supplier information, ensure that all changes are accurate to maintain reliable records.
+
+       When editing customer or supplier information, ensure that all changes are accurate to maintain reliable records.
 
 ---
 
