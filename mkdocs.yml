@@ -51,8 +51,8 @@ nav:
       - Pricing: settings/pricing.md
   - Customer & Suppliers:
       - Customer & Supplier Overview: customer-&-suppliers/overview.md
-      - Introduction- Customer & Supplier: customer-&-suppliers/introduction.md
-      - Other Actions for Customer & Supplier: customer-&-suppliers/other-actions.md
+      - Introduction- Customers & Suppilers: customer-&-suppliers/introduction.md
+      - Other Actions for Customers & Suppliers: customer-&-suppliers/other-actions.md
 
   - Quotes:
       - Quotes Overview: quotes/overview.md
