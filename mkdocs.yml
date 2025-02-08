@@ -46,7 +46,7 @@ nav:
       - Warehouse: settings/warehouse.md
       - Taxes: settings/taxes.md
       - Prefix: settings/prefix.md
-      - Users: settings/user.md
+      - Users: settings/users.md
       - Roles: settings/roles.md
       - Pricing: settings/pricing.md
   - Customer & Suppliers:
