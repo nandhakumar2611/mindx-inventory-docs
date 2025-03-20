@@ -8,7 +8,7 @@ The workflow for a sales order in Mindx Inventory is as follows:
 
 - Convert the sales order into an Invoice to send to your customer.
 
-- If stock is low, convert the sales order into a Purchase Order to reorder stock.
+
 
 ---
 
