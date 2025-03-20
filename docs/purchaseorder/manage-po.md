@@ -35,7 +35,8 @@ To ensure your purchase order list is current and accurate, follow these steps t
 - Select **Refresh** from the dropdown.
 
 !!! example "Insight"
-Keeping your purchase order list updated helps prevent errors and ensures smooth order processing.
+
+       Keeping your purchase order list updated helps prevent errors and ensures smooth order processing.
 
 Refreshing the list ensures that you have the most up-to-date information, helping you effectively manage your purchase orders.
 

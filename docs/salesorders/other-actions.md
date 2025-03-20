@@ -57,7 +57,7 @@ Having a printed sales order ensures smooth delivery coordination and internal d
 
 ---
 
-## Delete Sales Order
+## **Delete Sales Order**
 
 You can delete the sales order you have sent to your customer. Here’s how:
 

@@ -69,7 +69,6 @@ nav:
       - Introduction - Sales Orders: salesorders/introduction-so.md
       - Manage Sales Orders: salesorders/manage-so.md
       - Convert to Invoice: salesorders/convert-to-invoice.md
-      - Convert to Purchase Order: salesorders/convert-to-po.md
       - Other Actions for Sales Orders: salesorders/other-actions.md
   - Invoices:
       - Invoice Overview: invoices/overview.md

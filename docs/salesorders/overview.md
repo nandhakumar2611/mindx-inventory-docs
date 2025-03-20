@@ -18,12 +18,6 @@ The "Convert to Invoice" feature streamlines billing by transforming sales order
 
 ---
 
-## [**convert to purchaseOrder**](convert-to-po.md)
-
-The "Convert to Purchase Order" feature lets you create purchase orders directly from sales orders, carrying over item details, quantities, and pricing automatically. This streamlines procurement, reduces errors, and improves inventory management.
-
----
-
 ## [**Manage Sales Order**](manage-so.md)
 
 - [Filter Sales Orders](manage-so.md#filter-sales-orders)

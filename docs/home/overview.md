@@ -25,7 +25,8 @@ The Sales Overview widget showcases critical metrics such as total sales, revenu
 **Weekly Trends**: Includes detailed graphs to monitor weekly trends and track fluctuations in performance metrics over time.
 
 !!! example "Insight"
-Monitoring the Sales Overview helps you assess the effectiveness of your sales strategies and make informed decisions for future campaigns.
+
+      Monitoring the Sales Overview helps you assess the effectiveness of your sales strategies and make informed decisions for future campaigns.
 
 ### **Purchase Overview**
 
@@ -57,7 +58,7 @@ The Product Summary widget provides an at-a-glance overview of your suppliers an
 
 !!! abstrct "Prerequisite"
 
-        Ensure all suppliers and categories are updated in the system for accurate reporting.
+     Ensure all suppliers and categories are updated in the system for accurate reporting.
 
 ### **Order Summary**
 
