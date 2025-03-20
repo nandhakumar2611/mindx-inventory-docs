@@ -96,7 +96,6 @@ This enables you to track your sales, monitor customer orders, and manage your i
 **Related >**
 
 - [Convert Sales Order to Invoice](convert-to-invoice.md)
-- [Convert Sales Order to Purchase Order](convert-to-po.md)
 - [Other Action for Sales Order](other-actions.md)
 
 ---
