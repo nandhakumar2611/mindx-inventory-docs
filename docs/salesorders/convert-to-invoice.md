@@ -16,7 +16,7 @@ This feature streamlines your workflow, making it easy to transition from sales 
 
 **Next >**
 
-- [Convert Sales Order to Purchase Order](convert-to-po.md)
+- [Other Action for Sales Order](other-actions.md)
 
 ---
 
@@ -24,4 +24,3 @@ This feature streamlines your workflow, making it easy to transition from sales 
 
 - [Introduction- Sales Order](introduction-so.md)
 - [Manage Sales Order](manage-so.md)
-- [Other Action for Sales Order](other-actions.md)

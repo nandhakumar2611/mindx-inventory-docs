@@ -77,4 +77,3 @@ You can delete the sales order you have sent to your customer. Here’s how:
 - [Introduction- Sales Order](introduction-so.md)
 - [Manage Sales Order](manage-so.md)
 - [Convert Sales Order to Invoice](convert-to-invoice.md)
-- [Convert Sales Order to Purchase Order](convert-to-po.md)

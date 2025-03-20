@@ -45,5 +45,4 @@ Refreshing your sales order list ensures you are always viewing the most current
 **Related >**
 
 - [Introduction- Sales Order](introduction-so.md)
-- [Convert to Purchase Order](convert-to-po.md)
 - [Other Action for Sales Order](other-actions.md)
